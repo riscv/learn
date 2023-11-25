@@ -11,5 +11,3 @@ an organized fashion.
 
 Feel free to navigate through the resources listed below with their descriptions. 
 
-Testing the org export to markdown 
-
