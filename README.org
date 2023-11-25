@@ -34,3 +34,14 @@ Testing the org export to markdown
     
     [[https://github.com/riscv]] << technical
     [[https://github.com/riscv-non-isa]] << non-technical
+
+    
+** Articles and presentations
+
+*** Past, Present and Future of RISC-V
+    [[https://www.youtube.com/watch?v=RrVRMFjYti0][Past, Present and Future of RISC-V by Krste Asanović]]
+
+*** Is RISC-V the Future
+    [[https://semiengineering.com/is-risc-v-the-future/ ][Is RISC-V the Future by Roddy Urquhart]]
+    
+*** 

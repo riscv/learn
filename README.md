@@ -1,14 +1,18 @@
 
 # Table of Contents
 
-1.  [Resources](#org4ed32ea)
-    1.  [Relevant Documentation from RISC-V International](#org0adb77a)
-        1.  [RISC-V Start Here Guide](#org6d3550b)
-        2.  [Member Benefits and Welcome deck](#org75c79d2)
-        3.  [Getting Started Guide for RISC-V Members](#orgca2b41f)
-        4.  [RISC-V Technical wiki](#org5891f34)
-        5.  [RISC-V Lifecycle Guide](#org2023616)
-        6.  [RISC-V Repository Map](#org2ad24b7)
+1.  [Resources](#org99dd758)
+    1.  [Relevant Documentation from RISC-V International](#org1ad1d3e)
+        1.  [RISC-V Start Here Guide](#org3f257ad)
+        2.  [Member Benefits and Welcome deck](#org8766802)
+        3.  [Getting Started Guide for RISC-V Members](#orgc808ff5)
+        4.  [RISC-V Technical wiki](#orgcb336bc)
+        5.  [RISC-V Lifecycle Guide](#org5d9e9c2)
+        6.  [RISC-V Repository Map](#org93feaef)
+    2.  [Articles and presentations](#orgdcc5917)
+        1.  [Past, Present and Future of RISC-V](#org0102cf4)
+        2.  [Is RISC-V the Future](#org23d3dcc)
+        3.  [](#orgc75243e)
 
 A community driven compilation of RISC-V resources and learning material. The list is dynamically
 updated by the community and categorized based on different contexts of the RISC-V scope, taking
@@ -19,52 +23,52 @@ an organized fashion.
 Feel free to navigate through the resources listed below with their descriptions. 
 
 
-<a id="org4ed32ea"></a>
+<a id="org99dd758"></a>
 
 # Resources
 
 
-<a id="org0adb77a"></a>
+<a id="org1ad1d3e"></a>
 
 ## Relevant Documentation from RISC-V International
 
 
-<a id="org6d3550b"></a>
+<a id="org3f257ad"></a>
 
 ### RISC-V Start Here Guide
 
 <https://docs.google.com/document/d/1KQ_3OSnKnBTi-RoU88unJBYGAxtPfTI2lE-pwOfLtqI/edit>
 
 
-<a id="org75c79d2"></a>
+<a id="org8766802"></a>
 
 ### Member Benefits and Welcome deck
 
 <https://docs.google.com/presentation/d/1Q8gMcVwzqdqym3ugl_Q-LW0KMUApO-v8mWVdjqQE-MI/edit#slide=id.gf097992cc3_0_1819>
 
 
-<a id="orgca2b41f"></a>
+<a id="orgc808ff5"></a>
 
 ### Getting Started Guide for RISC-V Members
 
 <https://docs.google.com/document/d/1Qjf6BwMmtqTfzftr3WWf2bRv8Cl4f0qZrWWbr0jCBSU/edit>
 
 
-<a id="org5891f34"></a>
+<a id="orgcb336bc"></a>
 
 ### RISC-V Technical wiki
 
 <https://wiki.riscv.org/>
 
 
-<a id="org2023616"></a>
+<a id="org5d9e9c2"></a>
 
 ### RISC-V Lifecycle Guide
 
 <https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/>
 
 
-<a id="org2ad24b7"></a>
+<a id="org93feaef"></a>
 
 ### RISC-V Repository Map
 
@@ -72,4 +76,28 @@ Feel free to navigate through the resources listed below with their descriptions
 
 <https://github.com/riscv> << technical
 <https://github.com/riscv-non-isa> << non-technical
+
+
+<a id="orgdcc5917"></a>
+
+## Articles and presentations
+
+
+<a id="org0102cf4"></a>
+
+### Past, Present and Future of RISC-V
+
+[Past, Present and Future of RISC-V by Krste Asanović](https://www.youtube.com/watch?v=RrVRMFjYti0)
+
+
+<a id="org23d3dcc"></a>
+
+### Is RISC-V the Future
+
+[Is RISC-V the Future by Roddy Urquhart](https://semiengineering.com/is-risc-v-the-future/ )
+
+
+<a id="orgc75243e"></a>
+
+### 
 
