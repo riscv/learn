@@ -1,18 +1,19 @@
 
 # Table of Contents
 
-1.  [Resources](#org99dd758)
-    1.  [Relevant Documentation from RISC-V International](#org1ad1d3e)
-        1.  [RISC-V Start Here Guide](#org3f257ad)
-        2.  [Member Benefits and Welcome deck](#org8766802)
-        3.  [Getting Started Guide for RISC-V Members](#orgc808ff5)
-        4.  [RISC-V Technical wiki](#orgcb336bc)
-        5.  [RISC-V Lifecycle Guide](#org5d9e9c2)
-        6.  [RISC-V Repository Map](#org93feaef)
-    2.  [Articles and presentations](#orgdcc5917)
-        1.  [Past, Present and Future of RISC-V](#org0102cf4)
-        2.  [Is RISC-V the Future](#org23d3dcc)
-        3.  [](#orgc75243e)
+1.  [Resources](#org2e337f9)
+    1.  [Relevant Documentation from RISC-V International](#orgb66ed4e)
+        1.  [RISC-V Start Here Guide](#orgf775596)
+        2.  [Member Benefits and Welcome deck](#orgef47f2b)
+        3.  [Getting Started Guide for RISC-V Members](#org2c1f482)
+        4.  [RISC-V Technical wiki](#orga06e5db)
+        5.  [RISC-V Lifecycle Guide](#orgcf8aeeb)
+        6.  [RISC-V Repository Map](#org62e6e3a)
+        7.  [Design of the RISC-V Instruction Set Architecture](#orga38d912)
+    2.  [Articles and presentations](#org6221be0)
+        1.  [Past, Present and Future of RISC-V](#orge113f34)
+        2.  [Is RISC-V the Future](#org8eea08f)
+        3.  [](#orgc991c5b)
 
 A community driven compilation of RISC-V resources and learning material. The list is dynamically
 updated by the community and categorized based on different contexts of the RISC-V scope, taking
@@ -23,52 +24,52 @@ an organized fashion.
 Feel free to navigate through the resources listed below with their descriptions. 
 
 
-<a id="org99dd758"></a>
+<a id="org2e337f9"></a>
 
 # Resources
 
 
-<a id="org1ad1d3e"></a>
+<a id="orgb66ed4e"></a>
 
 ## Relevant Documentation from RISC-V International
 
 
-<a id="org3f257ad"></a>
+<a id="orgf775596"></a>
 
 ### RISC-V Start Here Guide
 
 <https://docs.google.com/document/d/1KQ_3OSnKnBTi-RoU88unJBYGAxtPfTI2lE-pwOfLtqI/edit>
 
 
-<a id="org8766802"></a>
+<a id="orgef47f2b"></a>
 
 ### Member Benefits and Welcome deck
 
 <https://docs.google.com/presentation/d/1Q8gMcVwzqdqym3ugl_Q-LW0KMUApO-v8mWVdjqQE-MI/edit#slide=id.gf097992cc3_0_1819>
 
 
-<a id="orgc808ff5"></a>
+<a id="org2c1f482"></a>
 
 ### Getting Started Guide for RISC-V Members
 
 <https://docs.google.com/document/d/1Qjf6BwMmtqTfzftr3WWf2bRv8Cl4f0qZrWWbr0jCBSU/edit>
 
 
-<a id="orgcb336bc"></a>
+<a id="orga06e5db"></a>
 
 ### RISC-V Technical wiki
 
 <https://wiki.riscv.org/>
 
 
-<a id="org5d9e9c2"></a>
+<a id="orgcf8aeeb"></a>
 
 ### RISC-V Lifecycle Guide
 
 <https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/>
 
 
-<a id="org93feaef"></a>
+<a id="org62e6e3a"></a>
 
 ### RISC-V Repository Map
 
@@ -78,26 +79,39 @@ Feel free to navigate through the resources listed below with their descriptions
 <https://github.com/riscv-non-isa> << non-technical
 
 
-<a id="orgdcc5917"></a>
+<a id="orga38d912"></a>
+
+### Design of the RISC-V Instruction Set Architecture
+
+Andrew Waterman’s Doctorate of Philosophy dissertation in the University of California,
+Berkeley, about the RISC-V ISA. It covers how RISC-V is a well structured small base ISA with a
+variety of optional extensions, making RISC-V convenient for a range of purposes from research
+and education, low-power embedded devices, to more general-purpose, high-performance computing,
+with the existence of these optional extensions. It provides a comparison of RISC-V to other
+popular ISAs as well.
+[Design of the RISC-V Instruction Set Architecture (pdf) (by Andrew Waterman)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-1.pdf)
+
+
+<a id="org6221be0"></a>
 
 ## Articles and presentations
 
 
-<a id="org0102cf4"></a>
+<a id="orge113f34"></a>
 
 ### Past, Present and Future of RISC-V
 
 [Past, Present and Future of RISC-V by Krste Asanović](https://www.youtube.com/watch?v=RrVRMFjYti0)
 
 
-<a id="org23d3dcc"></a>
+<a id="org8eea08f"></a>
 
 ### Is RISC-V the Future
 
 [Is RISC-V the Future by Roddy Urquhart](https://semiengineering.com/is-risc-v-the-future/ )
 
 
-<a id="orgc75243e"></a>
+<a id="orgc991c5b"></a>
 
 ### 
 
