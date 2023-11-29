@@ -40,6 +40,7 @@ For those with little or no knowledge of digital design. After going through the
 | Resource  |  Author(s) | Description  |
 |---|---|---|
 | [Digital Design and Computer Architecture RISC-V edition](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_5?crid=1Y6VGCXHTB99I&keywords=digital+design+and+computer+architecture&qid=1659609065&sprefix=digital+design+and+computer+architecture%2Caps%2C135&sr=8-5)  | Sarah L. Harris, David M. Harris   | Covers the foundational knowledge of digital design and segues smoothly into RISC-V Processor implementation. Topics covered here include : *Number systems and digital representation, Semiconductors and transistors, Logic Gates and Digital Design, C Programming, RISC-V Architecture, RISC-V Assembly, Memory systems, Embedded I/O systems* |
+| [Nand2Tetris](https://www.nand2tetris.org/) | Noam Nisan, Shimon Schocken | A free hands-on tutorial on building a general-purpose computer from logic gates using a hardware simulator. |
 
 
 <a id="orgb66ed4e"></a>
