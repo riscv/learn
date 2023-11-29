@@ -48,6 +48,7 @@ For those with background in digital design.
 
 | Resource  |  Author(s) | Description  |
 |---|---|---|
+| [Computer Organization and Design RISC-V edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | David A. Patterson, John L. Hennesy |  |
 
 
 <a id="orgb66ed4e"></a>
