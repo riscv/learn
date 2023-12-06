@@ -35,6 +35,16 @@ Testing the org export to markdown
     [[https://github.com/riscv]] << technical
     [[https://github.com/riscv-non-isa]] << non-technical
 
+*** Design of the RISC-V Instruction Set Architecture
+    Andrew Waterman’s Doctorate of Philosophy dissertation in the University of California,
+    Berkeley, about the RISC-V ISA. It covers how RISC-V is a well structured small base ISA with a
+    variety of optional extensions, making RISC-V convenient for a range of purposes from research
+    and education, low-power embedded devices, to more general-purpose, high-performance computing,
+    with the existence of these optional extensions. It provides a comparison of RISC-V to other
+    popular ISAs as well.
+    
+    [[https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-1.pdf][Design of the RISC-V Instruction Set Architecture (pdf) (by Andrew Waterman)]]
+
     
 ** Articles and presentations
 

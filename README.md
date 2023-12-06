@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [Resources](#org2e337f9)
-    1.  [Relevant Documentation from RISC-V International](#orgb66ed4e)
-        1.  [RISC-V Start Here Guide](#orgf775596)
-        2.  [Member Benefits and Welcome deck](#orgef47f2b)
-        3.  [Getting Started Guide for RISC-V Members](#org2c1f482)
-        4.  [RISC-V Technical wiki](#orga06e5db)
-        5.  [RISC-V Lifecycle Guide](#orgcf8aeeb)
-        6.  [RISC-V Repository Map](#org62e6e3a)
-        7.  [Design of the RISC-V Instruction Set Architecture](#orga38d912)
-    2.  [Articles and presentations](#org6221be0)
-        1.  [Past, Present and Future of RISC-V](#orge113f34)
-        2.  [Is RISC-V the Future](#org8eea08f)
-        3.  [](#orgc991c5b)
+1.  [Resources](#org3034770)
+    1.  [Relevant Documentation from RISC-V International](#org4c40d8b)
+        1.  [RISC-V Start Here Guide](#org30879ac)
+        2.  [Member Benefits and Welcome deck](#org8836e21)
+        3.  [Getting Started Guide for RISC-V Members](#org94a40fb)
+        4.  [RISC-V Technical wiki](#orge26b766)
+        5.  [RISC-V Lifecycle Guide](#org35cdc5a)
+        6.  [RISC-V Repository Map](#org64e814d)
+        7.  [Design of the RISC-V Instruction Set Architecture](#orgd5fca53)
+    2.  [Articles and presentations](#org449c1ef)
+        1.  [Past, Present and Future of RISC-V](#org6a03807)
+        2.  [Is RISC-V the Future](#orgf649224)
+        3.  [](#org5c4429f)
 
 A community driven compilation of RISC-V resources and learning material. The list is dynamically
 updated by the community and categorized based on different contexts of the RISC-V scope, taking
@@ -24,52 +24,52 @@ an organized fashion.
 Feel free to navigate through the resources listed below with their descriptions. 
 
 
-<a id="org2e337f9"></a>
+<a id="org3034770"></a>
 
 # Resources
 
 
-<a id="orgb66ed4e"></a>
+<a id="org4c40d8b"></a>
 
 ## Relevant Documentation from RISC-V International
 
 
-<a id="orgf775596"></a>
+<a id="org30879ac"></a>
 
 ### RISC-V Start Here Guide
 
 <https://docs.google.com/document/d/1KQ_3OSnKnBTi-RoU88unJBYGAxtPfTI2lE-pwOfLtqI/edit>
 
 
-<a id="orgef47f2b"></a>
+<a id="org8836e21"></a>
 
 ### Member Benefits and Welcome deck
 
 <https://docs.google.com/presentation/d/1Q8gMcVwzqdqym3ugl_Q-LW0KMUApO-v8mWVdjqQE-MI/edit#slide=id.gf097992cc3_0_1819>
 
 
-<a id="org2c1f482"></a>
+<a id="org94a40fb"></a>
 
 ### Getting Started Guide for RISC-V Members
 
 <https://docs.google.com/document/d/1Qjf6BwMmtqTfzftr3WWf2bRv8Cl4f0qZrWWbr0jCBSU/edit>
 
 
-<a id="orga06e5db"></a>
+<a id="orge26b766"></a>
 
 ### RISC-V Technical wiki
 
 <https://wiki.riscv.org/>
 
 
-<a id="orgcf8aeeb"></a>
+<a id="org35cdc5a"></a>
 
 ### RISC-V Lifecycle Guide
 
 <https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/>
 
 
-<a id="org62e6e3a"></a>
+<a id="org64e814d"></a>
 
 ### RISC-V Repository Map
 
@@ -79,7 +79,7 @@ Feel free to navigate through the resources listed below with their descriptions
 <https://github.com/riscv-non-isa> << non-technical
 
 
-<a id="orga38d912"></a>
+<a id="orgd5fca53"></a>
 
 ### Design of the RISC-V Instruction Set Architecture
 
@@ -89,29 +89,30 @@ variety of optional extensions, making RISC-V convenient for a range of purposes
 and education, low-power embedded devices, to more general-purpose, high-performance computing,
 with the existence of these optional extensions. It provides a comparison of RISC-V to other
 popular ISAs as well.
+
 [Design of the RISC-V Instruction Set Architecture (pdf) (by Andrew Waterman)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-1.pdf)
 
 
-<a id="org6221be0"></a>
+<a id="org449c1ef"></a>
 
 ## Articles and presentations
 
 
-<a id="orge113f34"></a>
+<a id="org6a03807"></a>
 
 ### Past, Present and Future of RISC-V
 
 [Past, Present and Future of RISC-V by Krste Asanović](https://www.youtube.com/watch?v=RrVRMFjYti0)
 
 
-<a id="org8eea08f"></a>
+<a id="orgf649224"></a>
 
 ### Is RISC-V the Future
 
 [Is RISC-V the Future by Roddy Urquhart](https://semiengineering.com/is-risc-v-the-future/ )
 
 
-<a id="orgc991c5b"></a>
+<a id="org5c4429f"></a>
 
 ### 
 
