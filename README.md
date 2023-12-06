@@ -82,7 +82,9 @@ For those with some background in digital system design.
 
 ## Relevant Documentation from RISC-V International
 
-
+| Resource                                                                                                        | Author(s)            | Description |
+|-----------------------------------------------------------------------------------------------------------------|----------------------|-------------|
+| [RISC-V Start Here Guide](https://docs.google.com/document/d/1KQ_3OSnKnBTi-RoU88unJBYGAxtPfTI2lE-pwOfLtqI/edit) | RISC-V International |             |
 <a id="org30879ac"></a>
 
 ### RISC-V Start Here Guide
