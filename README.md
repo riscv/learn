@@ -1,37 +1,23 @@
 
 # Table of Contents
 
-<<<<<<< HEAD
-1.  [Resources](#org3034770)
-    1.  [Relevant Documentation from RISC-V International](#org4c40d8b)
-        1.  [RISC-V Start Here Guide](#org30879ac)
-        2.  [Member Benefits and Welcome deck](#org8836e21)
-        3.  [Getting Started Guide for RISC-V Members](#org94a40fb)
-        4.  [RISC-V Technical wiki](#orge26b766)
-        5.  [RISC-V Lifecycle Guide](#org35cdc5a)
-        6.  [RISC-V Repository Map](#org64e814d)
-        7.  [Design of the RISC-V Instruction Set Architecture](#orgd5fca53)
-    2.  [Articles and presentations](#org449c1ef)
-        1.  [Past, Present and Future of RISC-V](#org6a03807)
-        2.  [Is RISC-V the Future](#orgf649224)
-        3.  [](#org5c4429f)
-=======
-[Resources](#org2e337f9)
-1. [New to RISC-V? Here are two learning pathways:](#org4ea67b3)
-    1. [Beginner](#org5a672ea) (No prerequisite knowledge required)
-    2. [Intermediate](#orgb463c7a) (Background in Digital System Design is required)
-2.  [Relevant Documentation from RISC-V International](#orgb66ed4e)
-    1.  [RISC-V Start Here Guide](#orgf775596)
-    2.  [Member Benefits and Welcome deck](#orgef47f2b)
-    3.  [Getting Started Guide for RISC-V Members](#org2c1f482)
-    4.  [RISC-V Technical wiki](#orga06e5db)
-    5.  [RISC-V Lifecycle Guide](#orgcf8aeeb)
-    6.  [RISC-V Repository Map](#org62e6e3a)
-    7.  [Design of the RISC-V Instruction Set Architecture](#orga38d912)
-3.  [Articles and presentations](#org6221be0)
-    1.  [Past, Present and Future of RISC-V](#orge113f34)
-    2.  [Is RISC-V the Future](#org8eea08f)
-    3.  [](#orgc991c5b)
+1.  [Resources](#org2e337f9)
+    1. [New to RISC-V? Here are two learning pathways:](#org4ea67b3)
+        1. [Beginner](#org5a672ea) (No prerequisite knowledge required)
+        2. [Intermediate](#orgb463c7a) (Background in Digital System Design is required)
+    2.  [Relevant Documentation from RISC-V International](#orgb66ed4e)
+        1.  [RISC-V Start Here Guide](#orgf775596)
+        2.  [Member Benefits and Welcome deck](#orgef47f2b)
+        3.  [Getting Started Guide for RISC-V Members](#org2c1f482)
+        4.  [RISC-V Technical wiki](#orga06e5db)
+        5.  [RISC-V Lifecycle Guide](#orgcf8aeeb)
+        6.  [RISC-V Repository Map](#org62e6e3a)
+        7.  [Design of the RISC-V Instruction Set Architecture](#orga38d912)
+    3.  [Articles and presentations](#org6221be0)
+        1.  [Past, Present and Future of RISC-V](#orge113f34)
+        2.  [Is RISC-V the Future](#org8eea08f)
+        3.  [](#orgc991c5b)
+2.  [Making Contributions](#org3e6c8b2)
 >>>>>>> refs/remotes/origin/main
 
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically
@@ -45,12 +31,8 @@ Feel free to navigate through the resources listed below with their descriptions
 
 <a id="org3034770"></a>
 
-# Resources
+# 📙 Resources
 
-
-<<<<<<< HEAD
-<a id="org4c40d8b"></a>
-=======
 <a id="org4ea67b3"></a>
 
 ## Learning Pathways for RISC-V
@@ -74,7 +56,7 @@ For those with some background in digital system design.
 
 | Resource  |  Author(s) | Description  |
 |---|---|---|
-| [Computer Organization and Design RISC-V edition: The Hardware Software Interface (2nd edition)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | David A. Patterson, John L. Hennesy | Covers the RISC-V Instruction Set in general and does an in-depth examination of the core RISC-V instructions. It also does a deep dive into RISC-V processor implementations. Each chapter includes real-world applications by tying concepts discussed with available modern computers. The book also highlights the interactions between hardware and software by continuously optimizing a software program to take advantantage of new hardware concepts introduced in each chapter. |
+| [Computer Organization and Design RISC-V edition: The Hardware Software Interface (2nd edition)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | David A. Patterson, John L. Hennesy | Covers the RISC-V Instruction Set in general and does an in-depth examination of the core RISC-V instructions. It also does a deep dive into RISC-V processor implementations. Each chapter includes real-world applications by tying concepts discussed with available modern computers. The book also highlights the interactions between hardware and software by continuously optimizing a sample software program based on the new hardware concepts introduced in each chapter. |
 
 
 <a id="orgb66ed4e"></a>
@@ -167,3 +149,22 @@ popular ISAs as well.
 
 ### 
 
+<a id="org3e6c8b2"></a>
+
+# ➕ Making Contributions
+
+We love contributions, so thanks for your interest in contributing to our RISC-V resources compilation repo. We are currently focused on adding tutorial resources that teach newcomers about RISC-V. You could either provide more information for the available resources on our list or add new resources to the list.
+
+Contributing is easy, here are some steps to help get you started:
+
+✔ Browse through the [list of available resources](https://docs.google.com/spreadsheets/d/1Hi62TPnl58R4lDX3wVw9_T78ylY21mI7B5Qb04ewLRE/edit#gid=0).
+
+✔ Open an Issue and in the comment, include the following: 
+- resource name 
+- description 
+- resource link
+- prerequisite knowledge required to comprehend the resource content.
+
+✔ Engage with an already open issue
+
+We may interact with you before adding your contributions.
