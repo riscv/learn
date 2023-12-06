@@ -55,7 +55,7 @@ For those with some background in digital system design.
 
 | Resource  |  Author(s) | Description  |
 |---|---|---|
-| [Computer Organization and Design RISC-V edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | David A. Patterson, John L. Hennesy |  |
+| [Computer Organization and Design RISC-V edition: The Hardware Software Interface (2nd edition)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | David A. Patterson, John L. Hennesy | Covers the RISC-V Instruction Set in general and does an in-depth examination of the core RISC-V instructions. It also does a deep dive into RISC-V processor implementations. Each chapter includes real-world applications by tying concepts discussed with available modern computers. The book also highlights the interactions between hardware and software by continuously optimizing a software program to take advantantage of new hardware concepts introduced in each chapter. |
 
 
 <a id="orgb66ed4e"></a>
