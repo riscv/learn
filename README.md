@@ -1,23 +1,24 @@
 
 # Table of Contents
 
-1.  [Resources](#org2e337f9)
-    1. [New to RISC-V? Here are two learning pathways:](#org4ea67b3)
-        1. [Beginner](#org5a672ea) (No prerequisite knowledge required)
-        2. [Intermediate](#orgb463c7a) (Background in Digital System Design is required)
-    2.  [Relevant Documentation from RISC-V International](#orgb66ed4e)
-        1.  [RISC-V Start Here Guide](#orgf775596)
-        2.  [Member Benefits and Welcome deck](#orgef47f2b)
-        3.  [Getting Started Guide for RISC-V Members](#org2c1f482)
-        4.  [RISC-V Technical wiki](#orga06e5db)
-        5.  [RISC-V Lifecycle Guide](#orgcf8aeeb)
-        6.  [RISC-V Repository Map](#org62e6e3a)
-        7.  [Design of the RISC-V Instruction Set Architecture](#orga38d912)
-    3.  [Articles and presentations](#org6221be0)
-        1.  [Past, Present and Future of RISC-V](#orge113f34)
-        2.  [Is RISC-V the Future](#org8eea08f)
-        3.  [](#orgc991c5b)
-2.  [Making Contributions](#org3e6c8b2)
+- [Table of Contents](#table-of-contents)
+- [➕ Making Contributions](#-making-contributions)
+- [📙 Resources](#-resources)
+  - [Learning Pathways for RISC-V](#learning-pathways-for-risc-v)
+    - [Beginner](#beginner)
+    - [Intermediate](#intermediate)
+  - [Relevant Documentation from RISC-V International](#relevant-documentation-from-risc-v-international)
+    - [RISC-V Start Here Guide](#risc-v-start-here-guide)
+    - [Member Benefits and Welcome deck](#member-benefits-and-welcome-deck)
+    - [Getting Started Guide for RISC-V Members](#getting-started-guide-for-risc-v-members)
+    - [RISC-V Technical wiki](#risc-v-technical-wiki)
+    - [RISC-V Lifecycle Guide](#risc-v-lifecycle-guide)
+    - [RISC-V Repository Map](#risc-v-repository-map)
+    - [Design of the RISC-V Instruction Set Architecture](#design-of-the-risc-v-instruction-set-architecture)
+  - [Articles and presentations](#articles-and-presentations)
+    - [Past, Present and Future of RISC-V](#past-present-and-future-of-risc-v)
+    - [Is RISC-V the Future](#is-risc-v-the-future)
+    - [](#)
 
 
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically
@@ -28,6 +29,26 @@ an organized fashion.
 
 Feel free to navigate through the resources listed below with their descriptions. 
 
+
+<a id="org3e6c8b2"></a>
+
+# ➕ Making Contributions
+
+We love contributions, so thanks for your interest in contributing to our RISC-V resources compilation repo. We are currently focused on adding tutorial resources that teach newcomers about RISC-V. You could either provide more information for the available resources on our list or add new resources to the list.
+
+Contributing is easy, here are some steps to help get you started:
+
+✔ Browse through the [list of available resources](https://docs.google.com/spreadsheets/d/1Hi62TPnl58R4lDX3wVw9_T78ylY21mI7B5Qb04ewLRE/edit#gid=0).
+
+✔ Open an Issue and in the comment, include the following: 
+- resource name 
+- description 
+- resource link
+- prerequisite knowledge required to comprehend the resource content.
+
+✔ Engage with an already open issue
+
+We may interact with you before adding your contributions.
 
 <a id="org3034770"></a>
 
@@ -149,22 +170,4 @@ popular ISAs as well.
 
 ### 
 
-<a id="org3e6c8b2"></a>
 
-# ➕ Making Contributions
-
-We love contributions, so thanks for your interest in contributing to our RISC-V resources compilation repo. We are currently focused on adding tutorial resources that teach newcomers about RISC-V. You could either provide more information for the available resources on our list or add new resources to the list.
-
-Contributing is easy, here are some steps to help get you started:
-
-✔ Browse through the [list of available resources](https://docs.google.com/spreadsheets/d/1Hi62TPnl58R4lDX3wVw9_T78ylY21mI7B5Qb04ewLRE/edit#gid=0).
-
-✔ Open an Issue and in the comment, include the following: 
-- resource name 
-- description 
-- resource link
-- prerequisite knowledge required to comprehend the resource content.
-
-✔ Engage with an already open issue
-
-We may interact with you before adding your contributions.
