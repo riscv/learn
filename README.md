@@ -18,7 +18,7 @@
         2.  [Is RISC-V the Future](#org8eea08f)
         3.  [](#orgc991c5b)
 2.  [Making Contributions](#org3e6c8b2)
->>>>>>> refs/remotes/origin/main
+
 
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically
 updated by the community and categorized based on different contexts of the RISC-V scope, taking
