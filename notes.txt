@@ -2,5 +2,6 @@
 Next objectives in the project:
 
 things to add:
+- populate & categorize resources from existing ones in our hand
 - issue forms for new resources
 - issue form for non-functional links etc. 
