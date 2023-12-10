@@ -1,0 +1,21 @@
+name: General Request
+description: A template for miscellaneous requests not covered by existing categories
+title: "[Request] - SHORT TITLE HERE"
+labels: ["enhancement"]
+assignees: ["algorhtym","KuthumiPepple"]
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we reach you for additional information?
+      placeholder: name, email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Request Details
+      description: Please provide more details about your request
+    validations:
+      required: true
