@@ -1,0 +1,46 @@
+name: Addition of new RISC-V tutorial resource
+description: A template to request the addition of a new RISC-V tutorial resource to the compiled list of resources
+title: "[New RISC-V Tutorial Resource] - SHORT RESOURCE TITLE HERE"
+labels: ["new resource","documentation"]
+assignees: ["algorhtym","KuthumiPepple"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Tutorial Resource Details
+  - type: input
+    id: title
+    attributes:
+      label: Resource Title
+      description: Provide the title of the tutorial resource
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Resource Description
+      description: Provide a brief description of the tutorial resource
+      placeholder: Summary of resource content or concepts covered
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Resource Link
+      description: Provide the link to the tutorial resource
+    validations:
+      required: true
+  - type: textarea
+    id: prerequisite
+    attributes:
+      label: Required Prerequisites (Optional)
+      description: Provide a list of prerequisite knowledge required to comprehend the resource content
+    validations:
+      required: false
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Details (Optional)
+      description: Include any additional details or context that may be helpful for the maintainers
+    validations:
+      required: false
