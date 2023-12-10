@@ -18,26 +18,29 @@ updated by the community and categorized based on different contexts of the RISC
 also into account different levels of experience/knowledge, allowing anyone interested in RISC-V to
 discover RISC-V resources and relevant content (courses, software, documentation, articles etc.) in
 an organized fashion.
+Feel free to navigate through the resources listed below with their descriptions.
 
-Feel free to navigate through the resources listed below with their descriptions. 
+**RISC-V** is an open standard Instruction Set Architecture (ISA) based on established Reduced Instruction Set Computer (RISC) principles. 
+
+Want to learn about RISC-V? Check out the [Beginner-Level](#beginner) and [Intermediate-Level](#intermediate) Learning Pathways. 
 
 <a id="-making-contributions"></a>
 
 ## ➕ Making Contributions
 
-We love contributions, thank you for your interest in contributing to our RISC-V resources compilation repository. We are currently focused on adding tutorial resources that teach newcomers about RISC-V. You could either provide more information for the available resources on our list or add new resources to the list. Contributions are made in the form of resource suggestions, and can be done by filling out an issue form provided in this repository.
+We love contributions! Thank you for your interest in contributing to our compilation of tutorial resources for RISC-V.
 
 Contributing is easy, here are some steps to help get you started:
-<!-- In this section we could remove the list of available resources page -->
-✔ Browse through the [list of available resources](https://docs.google.com/spreadsheets/d/1Hi62TPnl58R4lDX3wVw9_T78ylY21mI7B5Qb04ewLRE/edit#gid=0).
-<!-- In this section we will add a hyperlink that directs to the issue page -->
-✔ Open an issue and include the following information in the relevant fields: 
-- resource name 
-- description 
-- resource link
-- prerequisite knowledge required to comprehend the resource content.
 
-✔ Engage with an already open issue
+✔ Browse through the list of beginner and intermediate-level resources [here](#learning-pathways-for-risc-v) to see if your resource is already included.
+
+✔ If not, go to Issues, click on [New issue](https://github.com/algorhtym/riscv-resources/issues/new/choose) and select the template for adding a new RISC-V tutorial resource. 
+
+✔ Enter the resource information in the fields provided and click `Submit new issue`.
+
+✔ If you have a different contribution, you can select the General Request issue template from the provided [issue types](https://github.com/algorhtym/riscv-resources/issues/new/choose).
+
+✔ You could also engage with an already open issue.
 
 We may interact with you before adding your contributions.
 
@@ -53,12 +56,12 @@ We may interact with you before adding your contributions.
 
 #### Beginner 
 
-For those with little or no knowledge of digital design. After going through these resources, you can go to the Intermediate section.
+For those with little or no knowledge of digital design. After this section, you can go to the Intermediate section.
 
 | Resource  |  Author(s) | Description  | Access |
 |---|---|---|---|
 |**Digital Design and Computer Architecture RISC-V edition** | Sarah L. Harris, David M. Harris   | Covers the foundational knowledge of digital system design and segues smoothly into RISC-V Processor implementation. Topics covered here include : *Number systems and digital representation, Semiconductors and transistors, Logic Gates and Digital Design, C Programming, RISC-V Architecture, RISC-V Assembly, Memory systems, Embedded I/O systems* | [[Amazon book link]](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_5?crid=1Y6VGCXHTB99I&keywords=digital+design+and+computer+architecture&qid=1659609065&sprefix=digital+design+and+computer+architecture%2Caps%2C135&sr=8-5)|
-| **Nand2Tetris** | Noam Nisan, Shimon Schocken | A free hands-on tutorial on building a general-purpose computer from logic gates using a hardware simulator. | [[webpage]](https://www.nand2tetris.org/) |
+| **Nand2Tetris** | Noam Nisan, Shimon Schocken | A free hands-on tutorial on building a general-purpose computer from logic gates using a hardware simulator. | [[Nand2Tetris site]](https://www.nand2tetris.org/) |
 
 <a id="intermediate"></a>
 
