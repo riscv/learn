@@ -1,18 +1,6 @@
 RISC-V Resources
 ================
 
-## Table of Contents
-
-- [RISC-V Resources](#risc-v-resources)
-  - [Table of Contents](#table-of-contents)
-  - [➕ Making Contributions](#-making-contributions)
-  - [📙 Resources](#-resources)
-    - [Learning Pathways for RISC-V](#learning-pathways-for-risc-v)
-      - [Beginner](#beginner)
-      - [Intermediate](#intermediate)
-    - [Relevant Documentation from RISC-V International](#relevant-documentation-from-risc-v-international)
-    - [Articles and presentations](#articles-and-presentations)
-
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically
 updated by the community and categorized based on different contexts of the RISC-V scope, taking
 also into account different levels of experience/knowledge, allowing anyone interested in RISC-V to
@@ -22,7 +10,20 @@ Feel free to navigate through the resources listed below with their descriptions
 
 **RISC-V** is an open standard Instruction Set Architecture (ISA) based on established Reduced Instruction Set Computer (RISC) principles. 
 
-Want to learn about RISC-V? Check out the [Beginner-Level](#beginner) and [Intermediate-Level](#intermediate) Learning Pathways. 
+👋 **Want to learn about RISC-V?** Check out the [Beginner-Level](#beginner) and [Intermediate-Level](#intermediate) Learning Pathways.
+
+<br />
+<br />
+
+- [➕ Making Contributions](#-making-contributions)
+- [📙 Resources](#-resources)
+  - [Learning Pathways for RISC-V](#learning-pathways-for-risc-v)
+    - [Beginner](#beginner)
+    - [Intermediate](#intermediate)
+  - [Relevant Documentation from RISC-V International](#relevant-documentation-from-risc-v-international)
+  - [Articles and presentations](#articles-and-presentations)
+
+ 
 
 <a id="-making-contributions"></a>
 
