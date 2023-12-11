@@ -17,5 +17,6 @@ body:
     attributes:
       label: Request Details
       description: Please provide more details about your request
+      placeholder: Leave a comment
     validations:
       required: true

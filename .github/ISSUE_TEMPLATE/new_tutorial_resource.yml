@@ -20,7 +20,7 @@ body:
     attributes:
       label: Resource Description
       description: Provide a brief description of the tutorial resource
-      placeholder: Summary of resource content or concepts covered
+      placeholder: Leave a comment
     validations:
       required: true
   - type: input
@@ -35,6 +35,7 @@ body:
     attributes:
       label: Required Prerequisites (Optional)
       description: Provide a list of prerequisite knowledge required to comprehend the resource content
+      placeholder: Leave a comment
     validations:
       required: false
   - type: textarea
@@ -42,5 +43,6 @@ body:
     attributes:
       label: Additional Details (Optional)
       description: Include any additional details or context that may be helpful for the maintainers
+      placeholder: Leave a comment
     validations:
       required: false
