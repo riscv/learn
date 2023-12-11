@@ -57,17 +57,18 @@ We may interact with you before adding your contributions.
 
 #### Beginner 
 
-For those with little or no knowledge of digital design. After this section, you can go to the Intermediate section.
+For those with little or no knowledge of digital logic design. After studying the **Digital Design** book in this section, you could take the **RVfpga** course in the Intermediate section if you wish as it expands on concepts discussed in the book.
 
 | Resource  |  Author(s) | Description  | Access |
 |---|---|---|---|
-|**Digital Design and Computer Architecture RISC-V edition** | Sarah L. Harris, David M. Harris   | Covers the foundational knowledge of digital system design and segues smoothly into RISC-V Processor implementation. Topics covered here include : *Number systems and digital representation, Semiconductors and transistors, Logic Gates and Digital Design, C Programming, RISC-V Architecture, RISC-V Assembly, Memory systems, Embedded I/O systems* | [[Amazon book link]](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_5?crid=1Y6VGCXHTB99I&keywords=digital+design+and+computer+architecture&qid=1659609065&sprefix=digital+design+and+computer+architecture%2Caps%2C135&sr=8-5)|
-| **Nand2Tetris** | Noam Nisan, Shimon Schocken | A free hands-on tutorial on building a general-purpose computer from logic gates using a hardware simulator. | [[Nand2Tetris site]](https://www.nand2tetris.org/) |
+| **Nand2Tetris** (Optional) | Noam Nisan, Shimon Schocken | A free hands-on tutorial on building a general-purpose computer from logic gates using a hardware simulator. Taking this course is optional. | [[Nand2Tetris site]](https://www.nand2tetris.org/) |
+| <a id="digtal-design-book"></a> **Digital Design and Computer Architecture RISC-V edition** | Sarah L. Harris, David M. Harris   | Covers the foundational knowledge of digital logic design and segues smoothly into RISC-V Processor implementation. Topics covered here include : *Number systems and digital representation, Semiconductors and transistors, Logic Gates and Digital Design, C Programming, RISC-V Architecture, RISC-V Assembly, Memory systems, Embedded I/O systems* | [[Amazon book link]](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_5?crid=1Y6VGCXHTB99I&keywords=digital+design+and+computer+architecture&qid=1659609065&sprefix=digital+design+and+computer+architecture%2Caps%2C135&sr=8-5)|
+
 
 <a id="intermediate"></a>
 
 #### Intermediate 
-For those with some background in digital system design.
+For those with some background in digital logic design.
 
 
 | Resource  |  Author(s) | Description  | Access |
