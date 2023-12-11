@@ -70,10 +70,10 @@ For those with little or no knowledge of digital logic design. After studying th
 #### Intermediate 
 For those with some background in digital logic design.
 
-
 | Resource  |  Author(s) | Description  | Access |
 |---|---|---|---|
 | **Computer Organization and Design RISC-V edition: The Hardware Software Interface (2nd edition)** | David A. Patterson, John L. Hennesy | Covers the RISC-V Instruction Set in general and does an in-depth examination of the core RISC-V instructions. It also does a deep dive into RISC-V processor implementations. Each chapter includes real-world applications by tying concepts discussed with available modern computers. The book also highlights the interactions between hardware and software by continuously optimizing a sample software program based on the new hardware concepts introduced in each chapter. | [[Amazon book link]](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) |
+| **Computer Architecture with an Industrial RISC-V Core [RVfpga]** | Sarah Harris, Daniel Chaver-Martinez | This free EdX course expands on topics covered in **Digital Design and Computer Architecture, RISC-V edition** with hands-on learning. This course shows how to target a commercial RISC-V Core and RISC-V system-on-chip (SoC) to FPGA, program the RISC-V SoC, and add more functionalities to the RISC-V SoC | [[Edx course link]](https://www.edx.org/learn/computer-programming/the-linux-foundation-computer-architecture-with-an-industrial-risc-v-core) |
 
 
 <a id="relevant-documentation-from-risc-v-international"></a>
