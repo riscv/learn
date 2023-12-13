@@ -36,11 +36,11 @@ Contributing is easy, here are some steps to help get you started:
 
 ✔ Browse through the list of beginner and intermediate-level resources [here](#learning-pathways-for-risc-v) to see if your resource is already included.
 
-✔ If not, go to Issues, click on <a href="https://github.com/riscv/learn/issues/new/choose" target="_blank">New issue</a> and select the template for adding a new RISC-V tutorial resource. 
+✔ If not, go to [Issues](https://github.com/riscv/learn/issues), click on `New issue` and select the template for adding a new RISC-V tutorial resource. 
 
 ✔ Enter the resource information in the fields provided and click `Submit new issue`.
 
-✔ If you have a different contribution, you can select the General Request issue template from the provided <a href="https://github.com/algorhtym/riscv-resources/issues/new/choose" target="_blank">issue types</a>.
+✔ If you have a different contribution, you can select the General Request issue template from the provided <a href="https://github.com/riscv/learn/issues/new/choose" target="_blank">issue types</a>.
 
 ✔ You could also engage with an already open issue.
 
