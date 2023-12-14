@@ -33,7 +33,7 @@ body:
   - type: textarea
     id: prerequisite
     attributes:
-      label: Required Prerequisites (Optional)
+      label: Required Background (Optional)
       description: Provide a list of prerequisite knowledge required to comprehend the resource content
       placeholder: Leave a comment
     validations:
