@@ -1,4 +1,4 @@
-RISC-V Resources
+Learn RISC-V
 ================
 
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically
@@ -13,18 +13,16 @@ Feel free to navigate through the resources listed below with their descriptions
 👋 **Want to learn about RISC-V?** Check out the [Beginner-Level](#beginner) and [Intermediate-Level](#intermediate) Learning Pathways.
 
 <br>
+<br>
 
-## Table of Contents
 
-- [RISC-V Resources](#risc-v-resources)
-  - [Table of Contents](#table-of-contents)
-  - [➕ Making Contributions](#-making-contributions)
-  - [📙 Resources](#-resources)
-    - [Learning Pathways for RISC-V](#learning-pathways-for-risc-v)
-      - [Beginner](#beginner)
-      - [Intermediate](#intermediate)
-    - [Relevant Documentation from RISC-V International](#relevant-documentation-from-risc-v-international)
-    - [Articles and presentations](#articles-and-presentations)
+- [➕ Making Contributions](#-making-contributions)
+- [📙 Resources](#-resources)
+  - [Learning Pathways for RISC-V](#learning-pathways-for-risc-v)
+    - [Beginner-level](#beginner-level-resources)
+    - [Intermediate-level](#intermediate-level-resources)
+  - [Relevant Documentation from RISC-V International](#relevant-documentation-from-risc-v-international)
+  - [Articles and presentations](#articles-and-presentations)
 
 ## ➕ Making Contributions
 
@@ -48,30 +46,31 @@ We may interact with you before adding your contributions.
 
 ### Learning Pathways for RISC-V
 
-#### Beginner
+#### Beginner-level resources
 
 <!-- ##### Beginner to Digital Logic Design -->
 
-For those with little or no knowledge of digital logic design. After studying the **Digital Design** book in this section, you could take the **RVfpga** course in the Intermediate section if you wish as it expands on concepts discussed in the book.
+For those with little or no knowledge of digital logic design. After studying the [**Digital Design**](#digital-design) book in this section, you could jump to the intermediate-level [**edx RVfpga**](#computer-architecture-rvfpga) course if you wish as it expands on concepts discussed in the book.
 
 | Resource  |  Author(s) | Description  | Access |
 |---|---|---|---|
-|  **Digital Design and Computer Architecture RISC-V edition** | Sarah L. Harris, David M. Harris   | Covers the foundational knowledge of digital logic design and segues smoothly into RISC-V Processor implementation. Topics covered here include : *Number systems and digital representation, Semiconductors and transistors, Logic Gates and Digital Design, C Programming, RISC-V Architecture, RISC-V Assembly, Memory systems, Embedded I/O systems* | <a href="https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_5?crid=1Y6VGCXHTB99I&keywords=digital+design+and+computer+architecture&qid=1659609065&sprefix=digital+design+and+computer+architecture%2Caps%2C135&sr=8-5" target="_blank">[Amazon book link]</a>|
+|  <span id="digital-design">**Digital Design and Computer Architecture RISC-V edition**</span> (good starting point) | Sarah L. Harris, David M. Harris   | Covers the foundational knowledge of digital logic design and segues smoothly into RISC-V Processor implementation. Topics covered here include : *Number systems and digital representation, Semiconductors and transistors, Logic Gates and Digital Design, C Programming, RISC-V Architecture, RISC-V Assembly, Memory systems, Embedded I/O systems* | <a href="https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_5?crid=1Y6VGCXHTB99I&keywords=digital+design+and+computer+architecture&qid=1659609065&sprefix=digital+design+and+computer+architecture%2Caps%2C135&sr=8-5" target="_blank">[Amazon book link]</a>|
 | **Nand2Tetris** (optional) | Noam Nisan, Shimon Schocken | A free hands-on tutorial on building a general-purpose computer from logic gates using a hardware simulator. Taking this course is optional. | <a href="https://www.nand2tetris.org/" target="_blank">[webpage]</a> |
-|<a id="bruno-levy-episode-1">**learn-FPGA episode I: from blinky to RISC-V**</a>|[BrunoLevy](https://github.com/BrunoLevy)|A beginner's introduction to digital design of a RISC-V softcore on FPGAs. Episode I gently starts from a very basic blinker in VERILOG and morphs it step by step into a basic yet fully functional RISC-V SOC. It is also explained how to write programs in C and assembly for the SOC. <br><br> *(<u>Required background:</u> Basic knowledge of VERILOG)*|<a href="https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/README.md" target="_blank">[GitHub]</a>|
+|<span id="bruno-levy-episode-1">**learn-FPGA episode I: from blinky to RISC-V**</span>|[BrunoLevy](https://github.com/BrunoLevy)|A beginner's introduction to digital design of a RISC-V softcore on FPGAs. Episode I gently starts from a very basic blinker in VERILOG and morphs it step by step into a basic yet fully functional RISC-V SOC. It is also explained how to write programs in C and assembly for the SOC. <br><br> *(Required background: Basic knowledge of VERILOG)*|<a href="https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/README.md" target="_blank">[GitHub]</a>|
 
 <!-- ##### Beginner to RISC-V (w/ some background in digital logic design) -->
 
 
-#### Intermediate 
-For those with some background in digital logic design.
+#### Intermediate-Level resources 
+A collection of more advanced learning resources for RISC-V
 
 | Resource  |  Author(s) | Description  | Access |
 |---|---|---|---|
-| **Computer Organization and Design RISC-V edition: The Hardware Software Interface (2nd edition)** | David A. Patterson, John L. Hennesy | Covers the RISC-V Instruction Set in general and does an in-depth examination of the core RISC-V instructions. It also does a deep dive into RISC-V processor implementations. Each chapter includes real-world applications by tying concepts discussed with available modern computers. The book also highlights the interactions between hardware and software by continuously optimizing a sample software program based on the new hardware concepts introduced in each chapter. | <a href="https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315" target="_blank">[Amazon book link]</a>|
-| **Computer Architecture with an Industrial RISC-V Core [RVfpga]** | Sarah Harris, Daniel Chaver-Martinez | This free EdX course expands on topics covered in **Digital Design and Computer Architecture, RISC-V edition** with hands-on learning. This course shows how to target a commercial RISC-V Core and RISC-V system-on-chip (SoC) to FPGA, program the RISC-V SoC, and add more functionalities to the RISC-V SoC | <a href="https://www.edx.org/learn/computer-programming/the-linux-foundation-computer-architecture-with-an-industrial-risc-v-core" target="_blank">[Edx course link]</a>|
-|**learn-FPGA episode II: pipelining**|[BrunoLevy](https://github.com/BrunoLevy)|This tutorial explains how to transform the basic softcore from [episode I](#bruno-levy-episode-1) into an efficient pipelined processor. The tutorial follows a step-by-step approach, starting from a 5-states processor, transforming the states into stages, and solving data and control hazards by first observing what happens in real programs thanks to the included debugger/disassembler. Then it is explained how to gain more performance using register forwarding. Finally, branch prediction is introduced, from the simplest static branch prediction to more elaborate ones (gshare). The effect of the different optimizations are demonstrated using different codes (the classical dhrystones and coremark benchmarks, and a program that computes an image using raytracing).<br><br>*(<u>Required background:</u> It is highly recommended to read [episode I](#bruno-levy-episode-1) before episode II !)* | <a href="https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/PIPELINE.md" target="_blank">[GitHub]</a>|
-| **Computer Architecture: A Quantitative Approach(6th edition)** | David A. Patterson, John L. Hennesy | Covers advanced computer architecture concepts pertaining to high performance computing principles and domain specific architectures along with examples and exercises pertaining to the RISC-V ISA-(6th Edition onwards). This is a step-up from the first book,(Hardware-Software Interface), with advanced concepts like Instruction , Data and Thread Level Parallelism along with introduction to Vector, SIMD and GPU architectures.It also continues the tradition of using real-world examples to demonstrate the concepts, by introducing memory organizations and architectures of ARM Cortex A8, Intel Core i7, Nvidia GTX-280 GPUs and so on. (Required Background: It is recommended that you first read the [Hardware Software Interface](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315) before this book) | <a href="https://a.co/d/fuvp97D" target="_blank">[Amazon book link]</a>|
+| <span id="hardware-software-interface">**Computer Organization and Design RISC-V edition: The Hardware Software Interface (2nd edition)**</span> (good starting point)| David A. Patterson, John L. Hennesy | Covers the RISC-V Instruction Set in general and does an in-depth examination of the core RISC-V instructions. It also does a deep dive into RISC-V processor implementations. Each chapter includes real-world applications by tying concepts discussed with available modern computers. The book also highlights the interactions between hardware and software by continuously optimizing a sample software program based on the new hardware concepts introduced in each chapter.<br><br>*(Required background: knowledge of Logic design is needed to follow the contents of this book)* | <a href="https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315" target="_blank">[Amazon book link]</a>|
+| <span id="computer-architecture-rvfpga">**Computer Architecture with an Industrial RISC-V Core [RVfpga]**</span> | Sarah Harris, Daniel Chaver-Martinez | This free EdX course expands on topics covered in **Digital Design and Computer Architecture, RISC-V edition** with hands-on learning. This course shows how to target a commercial RISC-V Core and RISC-V system-on-chip (SoC) to FPGA, program the RISC-V SoC, and add more functionalities to the RISC-V SoC | <a href="https://www.edx.org/learn/computer-programming/the-linux-foundation-computer-architecture-with-an-industrial-risc-v-core" target="_blank">[Edx course link]</a>|
+|**learn-FPGA episode II: pipelining**|[BrunoLevy](https://github.com/BrunoLevy)|This tutorial explains how to transform the basic softcore from [episode I](#bruno-levy-episode-1) into an efficient pipelined processor. The tutorial follows a step-by-step approach, starting from a 5-states processor, transforming the states into stages, and solving data and control hazards by first observing what happens in real programs thanks to the included debugger/disassembler. Then it is explained how to gain more performance using register forwarding. Finally, branch prediction is introduced, from the simplest static branch prediction to more elaborate ones (gshare). The effect of the different optimizations are demonstrated using different codes (the classical dhrystones and coremark benchmarks, and a program that computes an image using raytracing).<br><br>*(Required background: It is highly recommended to read [episode I](#bruno-levy-episode-1) before episode II !)* | <a href="https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/PIPELINE.md" target="_blank">[GitHub]</a>|
+| **Computer Architecture: A Quantitative Approach(6th edition)** | David A. Patterson, John L. Hennesy | Covers advanced computer architecture concepts pertaining to high performance computing principles and domain specific architectures along with examples and exercises pertaining to the RISC-V ISA-(6th Edition onwards). This is a step-up from the first book,(Hardware-Software Interface), with advanced concepts like Instruction , Data and Thread Level Parallelism along with introduction to Vector, SIMD and GPU architectures.It also continues the tradition of using real-world examples to demonstrate the concepts, by introducing memory organizations and architectures of ARM Cortex A8, Intel Core i7, Nvidia GTX-280 GPUs and so on.<br><br>*(Required Background: It is recommended that you first read the [Hardware Software Interface](#hardware-software-interface) before this book !)* | <a href="https://a.co/d/fuvp97D" target="_blank">[Amazon book link]</a>|
+| **Tutorial: RISC-V Vector Extension Demystified** | Thang Tran | A very in-depth, three hour long video introduction to the RISC-V Vector extension. | <a href="https://youtu.be/oTaOd8qr53U" target="_blank">[Youtube video]</a> |
 
 
 ### Relevant Documentation from RISC-V International
