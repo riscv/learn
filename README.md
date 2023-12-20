@@ -81,6 +81,7 @@ A collection of tools that can be used along with the beginner or intermediate-l
 |---|---|---|---|
 | **emulsiV** | emulsiV is a visual simulator for a simple RISC processor called Virgule. Virgule is a 32-bit RISC processor core that implements a minimal subset of the RISC-V instruction set. Here, “minimal” means that Virgule accepts only the instructions that a C compiler would generate from a pure stand-alone C program. | <a href="https://eseo-tech.github.io/emulsiV/" target="_blank">[website]</a> | 20-12-2023 |
 | **RISC-V Instruction Encoder/Decoder** | This tool is an online encoder/decoder for RISC-V instructions. Users can input RISC-V instructions in their assembly or binary format and get the full conversion from one to the other. | <a href="https://luplab.gitlab.io/rvcodecjs/" target="_blank">[website]</a> | 20-12-2023 |
+| **CREATOR** | CREATOR is a didactic simulator that allows the development, simulation, and debugging of RISC-V (RV32IMFD) assembly programs intuitively and interactively. It is a web application, so it can be used on any type of device (desktop, tablet, smartphone, etc.) without installing additional software. Only a modern web browser (Google Chrome, Mozilla Firefox, Apple Safari, etc.) is required. | <a href="https://creatorsim.github.io/creator/" target="_blank">[website]</a> | 20-12-2023 |
 
 #### Open RISC-V Implementations
 A list of all open RISC-V Implementations
