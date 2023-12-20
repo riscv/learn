@@ -54,7 +54,7 @@ We may interact with you before adding your contributions.
 
 For those with little or no knowledge of digital logic design. After studying the [**Digital Design**](#digital-design) book in this section, you could jump to the intermediate-level [**edx RVfpga**](#computer-architecture-rvfpga) course if you wish as it expands on concepts discussed in the book.
 
-| Resource  |  Author(s) | Description  | Access | Date added (dd-mm-yyyy) |
+| Resource  |  Author(s) | Description  | Access | Date added |
 |---|---|---|---|---|
 |  <span id="digital-design">**Digital Design and Computer Architecture RISC-V edition**</span> (good starting point) | Sarah L. Harris, David M. Harris   | Covers the foundational knowledge of digital logic design and segues smoothly into RISC-V Processor implementation. Topics covered here include : *Number systems and digital representation, Semiconductors and transistors, Logic Gates and Digital Design, C Programming, RISC-V Architecture, RISC-V Assembly, Memory systems, Embedded I/O systems* | <a href="https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_5?crid=1Y6VGCXHTB99I&keywords=digital+design+and+computer+architecture&qid=1659609065&sprefix=digital+design+and+computer+architecture%2Caps%2C135&sr=8-5" target="_blank">[Amazon book link]</a>|
 | **Nand2Tetris** (optional) | Noam Nisan, Shimon Schocken | A free hands-on tutorial on building a general-purpose computer from logic gates using a hardware simulator. Taking this course is optional. | <a href="https://www.nand2tetris.org/" target="_blank">[webpage]</a> |
@@ -66,7 +66,7 @@ For those with little or no knowledge of digital logic design. After studying th
 #### Intermediate-Level resources 
 A collection of more advanced learning resources for RISC-V
 
-| Resource  |  Author(s) | Description  | Access | Date added (dd-mm-yyyy) |
+| Resource  |  Author(s) | Description  | Access | Date added |
 |---|---|---|---|---|
 | <span id="hardware-software-interface">**Computer Organization and Design RISC-V edition: The Hardware Software Interface (2nd edition)**</span> (good starting point)| David A. Patterson, John L. Hennesy | Covers the RISC-V Instruction Set in general and does an in-depth examination of the core RISC-V instructions. It also does a deep dive into RISC-V processor implementations. Each chapter includes real-world applications by tying concepts discussed with available modern computers. The book also highlights the interactions between hardware and software by continuously optimizing a sample software program based on the new hardware concepts introduced in each chapter.<br><br>*(Required background: knowledge of Logic design is needed to follow the contents of this book)* | <a href="https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315" target="_blank">[Amazon book link]</a>|
 | <span id="computer-architecture-rvfpga">**Computer Architecture with an Industrial RISC-V Core [RVfpga]**</span> | Sarah Harris, Daniel Chaver-Martinez | This free EdX course expands on topics covered in **Digital Design and Computer Architecture, RISC-V edition** with hands-on learning. This course shows how to target a commercial RISC-V Core and RISC-V system-on-chip (SoC) to FPGA, program the RISC-V SoC, and add more functionalities to the RISC-V SoC | <a href="https://www.edx.org/learn/computer-programming/the-linux-foundation-computer-architecture-with-an-industrial-risc-v-core" target="_blank">[Edx course link]</a>|
@@ -77,17 +77,18 @@ A collection of more advanced learning resources for RISC-V
 #### Softwares and Tools
 A collection of tools that can be used along with the beginner or intermediate-level learning resources for a better understanding or visualization of the RISC-V ISA
 
-| Resource | Description  | Access | Date added (dd-mm-yyyy) |
+| Resource | Description  | Access | Date added |
 |---|---|---|---|
 | **emulsiV** | emulsiV is a visual simulator for a simple RISC processor called Virgule. Virgule is a 32-bit RISC processor core that implements a minimal subset of the RISC-V instruction set. Here, “minimal” means that Virgule accepts only the instructions that a C compiler would generate from a pure stand-alone C program. | <a href="https://eseo-tech.github.io/emulsiV/" target="_blank">[website]</a> | 20-12-2023 |
 | **RISC-V Instruction Encoder/Decoder** | This tool is an online encoder/decoder for RISC-V instructions. Users can input RISC-V instructions in their assembly or binary format and get the full conversion from one to the other. | <a href="https://luplab.gitlab.io/rvcodecjs/" target="_blank">[website]</a> | 20-12-2023 |
 | **CREATOR** | CREATOR is a didactic simulator that allows the development, simulation, and debugging of RISC-V (RV32IMFD) assembly programs intuitively and interactively. It is a web application, so it can be used on any type of device (desktop, tablet, smartphone, etc.) without installing additional software. Only a modern web browser (Google Chrome, Mozilla Firefox, Apple Safari, etc.) is required. | <a href="https://creatorsim.github.io/creator/" target="_blank">[website]</a> | 20-12-2023 |
 | **QtRvSim** - RISC-V CPU Simulator with Cache and Pipeline Visualization | QtRvSim is educational simulator with pipeline and cache visualization (RV32IMA/RV64IMA). It supports even M-mode ecalls, ACLINT MTIMER, MSWI, SSWI, related CSR registers, serial port Rx and Tx interrupts and more. | <a href="https://github.com/cvut/qtrvsim/" target="_blank">[Github]</a> | 20-12-2023 |
+| **RVV intrinsics viewer** | A third party documentation website for the vector extension intrinsics, currently including pretty much all intrinsics variations, and fuzzy search. This can be a useful resource when writing rvv code. | <a href="https://dzaima.github.io/intrinsics-viewer/" target="_blank">[website]</a> | 20-12-2023 |
 
 #### Open RISC-V Implementations
 A list of all open RISC-V Implementations
 
-| Name | Description  | Access | Date added (dd-mm-yyyy) |
+| Name | Description  | Access | Date added |
 |---|---|---|---|
 
 ### Relevant Documentation from RISC-V International
