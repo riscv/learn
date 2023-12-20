@@ -90,6 +90,7 @@ A list of all open RISC-V Implementations
 
 | Name | Description  | Access | Date added |
 |---|---|---|---|
+| **Pequeno** | Pequeno aka pqr5 is a pipelined in-order RISC-V CPU Core compliant with RV32I | <a href="https://github.com/iammituraj/pequeno_riscv" target="_blank">[Github]</a> | 20-12-2023 |
 
 ### Relevant Documentation from RISC-V International
 
