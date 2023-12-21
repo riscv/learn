@@ -151,6 +151,12 @@ Software Interface] before this book !)_ |https://a.co/d/fuvp97D[Amazon book lin
 |*Tutorial: RISC-V Vector Extension Demystified* |Thang Tran |A very
 in-depth, three hour long video introduction to the RISC-V Vector
 extension. |https://youtu.be/oTaOd8qr53U[Youtube video] |
+
+|*Learn with SHAKTI* | https://shakti.org.in/team.html[Shakti - RISE Lab, IITM] | A tutorial on RISC-V                                      
+assembly programming using the RISC-V toolchain (Spike, riscv-pk,                                           
+OpenOCD) and basic examples and assignments. More elaborate RISC-V ASM                                      
+examples can be found in the: https://shakti.org.in/docs/risc-v-asm-manual.pdf[Shakti RISC-V ASM Programmer Manual Part                                     
+I]. |https://shakti.org.in/learn_with_shakti/intro.html[Link to: Learn with Shakti] |21-12-2023  
 |===
 
 ===== Softwares and Tools
