@@ -1,7 +1,0 @@
-(This file will be removed when the repository is made available for contributions)
-Next objectives in the project:
-
-things to add:
-- populate & categorize resources from existing ones in our hand
-- issue forms for new resources
-- issue form for non-functional links etc. 

@@ -4,3 +4,6 @@ README.org~
 README.md~
 .gitignore~
 #notes.txt
+
+# To prevent staging asciidoc html builds
+*.html
