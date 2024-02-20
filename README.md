@@ -1,6 +1,6 @@
 Learn RISC-V
 ================
-[![Check Markdown links](https://github.com/riscv/learn/actions/workflows/action.yml/badge.svg?branch=thong-phn%2Fcheck-markdown-links)](https://github.com/riscv/learn/actions/workflows/action.yml)
+[![Check Markdown links](https://github.com/riscv/learn/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/riscv/learn/actions/workflows/action.yml)
 
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically
 updated by the community and categorized based on different contexts of the RISC-V scope, taking
