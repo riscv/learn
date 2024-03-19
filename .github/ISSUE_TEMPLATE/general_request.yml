@@ -2,7 +2,7 @@ name: General Request
 description: A template for miscellaneous requests not covered by existing categories
 title: "[Request] - SHORT TITLE HERE"
 labels: ["enhancement"]
-assignees: ["algorhtym","KuthumiPepple"]
+assignees: ["thong-phn","rpsene"]
 body:
   - type: input
     id: contact
