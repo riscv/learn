@@ -13,9 +13,8 @@ Feel free to navigate through the resources listed below with their descriptions
 
 👋 **Want to learn about RISC-V?** Check out the [Beginner-Level](#-beginner-level-resources) or [Intermediate-Level](#-intermediate-level-resources) learning resources.
 
+<b>Table of Contents</b>
 <br>
-<br>
-
 
 - [Learn RISC-V](#learn-risc-v)
   - [➕ Making Contributions](#-making-contributions)
