@@ -11,7 +11,7 @@ Feel free to navigate through the resources listed below with their descriptions
 
 **RISC-V** is an open standard Instruction Set Architecture (ISA) based on established Reduced Instruction Set Computer (RISC) principles. 
 
-👋 **Want to learn about RISC-V?** Check out the [Beginner-Level](#-beginner-level-resources) or [Intermediate-Level](#🔵-intermediate-level-resources) learning resources.
+👋 **Want to learn about RISC-V?** Check out the [Beginner-Level](#-beginner-level-resources) or [Intermediate-Level](#-intermediate-level-resources) learning resources.
 
 <br>
 <br>
@@ -22,7 +22,7 @@ Feel free to navigate through the resources listed below with their descriptions
   - [📙 Resources](#-resources)
     - [Learning Resources for RISC-V](#learning-resources-for-risc-v)
       - [🟢 Beginner-level resources](#-beginner-level-resources)
-      - [🔵 Intermediate-Level resources](#🔵-intermediate-level-resources)
+      - [🔵 Intermediate-Level resources](#-intermediate-level-resources)
       - [Softwares and Tools](#softwares-and-tools)
       - [Open RISC-V Implementations](#open-risc-v-implementations)
     - [Relevant Documentation from RISC-V International](#relevant-documentation-from-risc-v-international)
