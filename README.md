@@ -18,7 +18,7 @@ Feel free to navigate through the resources listed below with their descriptions
 
 - [Learn RISC-V](#learn-risc-v)
   - [➕ Making Contributions](#-making-contributions)
-  - [📚 Learning guides] (#-learning-roadmap)
+  - [📚 Learning Roadmap](#-learning-roadmap)
   - [📙 Resources](#-resources)
     - [Learning Resources for RISC-V](#learning-resources-for-risc-v)
       - [🟢 Beginner-level resources](#-beginner-level-resources)
@@ -46,15 +46,15 @@ Contributing is easy, here are some steps to help get you started:
 
 We may interact with you before adding your contributions.
 
-## 📚 Learning roadmap
+## 📚 Learning Roadmap
 
-We provide a roadmap to help beginners quickly select learning materials to learn RISC-V
+We provide a roadmap to help beginners quickly select your own favourite materials to familizarise RISC-V
 
 
 
 We are pleased to receive your contribution on this roadmap through issues
 
-Visit the web version: https://roadmap.sh/r?id=662706c3351f8e69e690e740
+Visit the web version: [Roadmap 1.0](https://roadmap.sh/r?id=662706c3351f8e69e690e740)
 
 ## 📙 Resources
 
