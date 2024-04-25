@@ -48,11 +48,9 @@ We may interact with you before adding your contributions.
 
 ## 📚 Learning Roadmap
 
-We provide a roadmap to help beginners quickly select your own favourite materials to familizarise RISC-V
+We provide a roadmap to help beginners quickly select your own favourite materials for familiarizing with RISC-V. We welcome your contributions to this roadmap.
 
-
-
-We are pleased to receive your contribution on this roadmap through issues
+<img src="roadmap/roadmap_v1.png" width="930" height="1364">
 
 Visit the web version: [Roadmap 1.0](https://roadmap.sh/r?id=662706c3351f8e69e690e740)
 
