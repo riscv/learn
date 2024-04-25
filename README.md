@@ -50,7 +50,7 @@ We may interact with you before adding your contributions.
 
 We provide a roadmap to help beginners quickly select your own favourite materials for familiarizing with RISC-V. We welcome your contributions to this roadmap.
 
-<img src="roadmap/roadmap_v1.png" width="930" height="1364">
+<img src="roadmap/roadmap_v1.png" width="800" height="1173">
 
 Visit the web version: [Roadmap 1.0](https://roadmap.sh/r?id=662706c3351f8e69e690e740)
 
