@@ -112,6 +112,7 @@ Tools to enhance understanding or visualize the RISC-V ISA.
 | **Online RISC-V Assembler** | Lucas Teske | Online RISC-V Assembler using gnu-assembler in webassembly | [Website](https://riscvasm.lucasteske.dev/) , [Github](https://github.com/racerxdl/riscv-online-asm) | 2024-10-18 |
 | **Piscado** | GustavonMartis | RISC-V Simulator written in python during twitch live coding | [Github](https://github.com/gustavonmartins/piscado) | 2024-10-18 |
 | **GodBolt** | Matt Godbolt | Online Compiler Explorer that supports GCC/LLVM for RV64 | [Website](https://godbolt.org/) | 2024-10-18 |
+| **RISC-V ALE** | Antonio Guimarães | RISC-V Assembly Learning Environment | [Website](https://riscv-programming.org/ale/) | 2024-10-18 | 
 
 ---
 
@@ -129,6 +130,20 @@ Explore open RISC-V implementations for hands-on learning.
 | **RISCuinho** | A scratch in the possibilities in the universe of microcontrollers | [Github](https://github.com/RISCuinho/core) | 2024-10-18 |
 | **PicoRV32** | A Size-Optimized RISC-V CPU | [Github](https://github.com/YosysHQ/picorv32) | 2024-10-18 |
 | **VexRiscv** | A FPGA Friendly 32 bit RISC-V CPU implementation | [Github](https://github.com/SpinalHDL/VexRiscv) | 2024-10-18 |
+| **Risco-5** | Multi-cycle RISC-V processor with RV32I/E[M] implementation, built during a few days off. | [Github](https://github.com/JN513/Risco-5) | 2024-10-18 |
+| **RISC-V Steel** | 32-bit RISC-V processor core (RV32I + Zicsr + Machine mode). | [Github](https://github.com/riscv-steel/riscv-steel) | 2024-10-18 |
+| **Mriscv** | A 32-bit Microcontroller featuring a RISC-V core. | [Github](https://github.com/onchipuis/mriscv) | 2024-10-18 |
+| **SERV** | SERV - The SErial RISC-V CPU. | [Github](https://github.com/olofk/serv) | 2024-10-18 |
+| **TinyRiscv** | A very simple and easy to understand RISC-V core. | [Github](https://github.com/liangkangnan/tinyriscv) | 2024-10-18 |
+| **AUK-V-Aethia** | AUK-V RV32I CPU. | [Github](https://github.com/veeYceeY/AUK-V-Aethia) | 2024-10-18 |
+| **NERV** | Naive Educational RISC V processor | [Github](https://github.com/YosysHQ/nerv) | 2024-10-18 |
+| **CVA6** | The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux | [Github](https://github.com/openhwgroup/cva6) | 2024-10-18 |
+| **CV32E40P** | CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform. | [Github](https://github.com/openhwgroup/cv32e40p) | 2024-10-18 |
+| **ReonV** | ReonV is a modified version of the Leon3, a synthesisable VHDL model of a 32-bit processor originally compliant with the SPARC V8 architecture, now changed to RISC-V ISA. | [Github](https://github.com/lcbcFoo/ReonV) | 2024-10-18 |
+| **RPU** | Basic RISC-V CPU implementation in VHDL. | [Github](https://github.com/Domipheus/RPU) | 2024-10-18 |
+| **Maestro** | A 5 stage-pipeline RV32I implementation in VHDL. | [Github](https://github.com/Artoriuz/maestro) | 2024-10-18 |
+| **RSD** | RSD: RISC-V Out-of-Order Superscalar Processor. | [Github](https://github.com/rsd-devel/rsd) | 2024-10-18 |
+| **Kronos** | Kronos is a 3-stage in-order RISC-V RV32I_Zicsr_Zifencei core geared towards FPGA implementations. | [Github](https://github.com/SonalPinto/kronos) | 2024-10-18 |
 
 ---
 
