@@ -144,6 +144,7 @@ Explore open RISC-V implementations for hands-on learning.
 | **Maestro** | A 5 stage-pipeline RV32I implementation in VHDL. | [Github](https://github.com/Artoriuz/maestro) | 2024-10-18 |
 | **RSD** | RSD: RISC-V Out-of-Order Superscalar Processor. | [Github](https://github.com/rsd-devel/rsd) | 2024-10-18 |
 | **Kronos** | Kronos is a 3-stage in-order RISC-V RV32I_Zicsr_Zifencei core geared towards FPGA implementations. | [Github](https://github.com/SonalPinto/kronos) | 2024-10-18 |
+| **Leaf** | Leaf is a small RV32I SoC for portable applications done in VHDL and implemented both in FPGA and ASIC. | [Github](https://github.com/britovski/leaf) | 2024-10-23 |
 
 ---
 
