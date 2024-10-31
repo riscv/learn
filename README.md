@@ -128,6 +128,7 @@ Explore open RISC-V implementations for hands-on learning.
 | **Riskow** | Toy RV32-E done from scratch during livestreams that runs on cheap FPGAs | [Github](https://github.com/racerxdl/riskow) | 2024-10-18 |
 | **Riscado-V** | Simple RISC-V (RV32I) implementation in verilog | [Github](https://github.com/zxmarcos/riscado-v) | 2024-10-18 |
 | **RISCuinho** | A scratch in the possibilities in the universe of microcontrollers | [Github](https://github.com/RISCuinho/core) | 2024-10-18 |
+| **NoX** | Small RISC-V (RV32I) core written in SystemVerilog | [GitHub](https://github.com/aignacio/nox) | 2024-10-21 |
 | **PicoRV32** | A Size-Optimized RISC-V CPU | [Github](https://github.com/YosysHQ/picorv32) | 2024-10-18 |
 | **VexRiscv** | A FPGA Friendly 32 bit RISC-V CPU implementation | [Github](https://github.com/SpinalHDL/VexRiscv) | 2024-10-18 |
 | **Risco-5** | Multi-cycle RISC-V processor with RV32I/E[M] implementation, built during a few days off. | [Github](https://github.com/JN513/Risco-5) | 2024-10-18 |
