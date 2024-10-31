@@ -166,6 +166,11 @@ Explore open RISC-V implementations for hands-on learning.
 | [**LicheeRV Nano**](https://wiki.sipeed.com/hardware/en/lichee/RV_Nano/1_intro.html) | Sipeed | SG2002 | Single-Core T-HEAD C906 | 2024-10-31 |
 | [**LicheePI 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lpi4a/1_intro.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-10-31 |
 | [**LicheePI 3A**](https://wiki.sipeed.com/hardware/en/lichee/K1/lpi3a/1_intro.html) | Sipeed | SpacemiT K1 | Octa-Core X60 | 2024-10-31 | 
+| [**VisionFive 2**](https://www.starfivetech.com/en/site/boards) | StarFiveTech | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
+| [**Milk-V Mars**](https://milkv.io/mars) | Milk-V | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
+| [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
+| [**OK7110-C**](https://www.forlinx.net/product/jh7110-single-board-computer-riscv-142.html) | ForLinx | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
+
 
 ---
 
