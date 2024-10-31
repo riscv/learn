@@ -172,7 +172,7 @@ Explore open RISC-V implementations for hands-on learning.
 | [**Milk-V Mars**](https://milkv.io/mars) | Milk-V | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
 | [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
 | [**PineTab-V**](https://pine64.com/product/pinetab-v-10-1-8gb-128gb-risc-v-based-linux-tablet-with-detached-backlit-keyboard/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
-| [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | BL808 | T-HEAD C906, T-HEAD E907, T-HEAD E902 | 2024-10-31 | 
+| [**Ox64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | BL808 | T-HEAD C906, T-HEAD E907, T-HEAD E902 | 2024-10-31 | 
 | [**OK7110-C**](https://www.forlinx.net/product/jh7110-single-board-computer-riscv-142.html) | ForLinx | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
 
 
