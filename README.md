@@ -66,7 +66,7 @@ For those with little or no knowledge of digital logic design. After studying th
 | **An Introduction to Assembly Programming with RISC-V** | Prof. Edson Borin | Teaches RISC-V assembly programming concepts. | [Webpage](https://www.ic.unicamp.br/~edson/riscv-book.html) | 2024-03-05 |
 | **Architecture 1005: RISC-V Assembly** | OpenSecurityTraining | Security-focused exploration of RISC-V ISAs and extensions. | [Course Videos](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1005_IntroRISCV+2024_v1/course/) | 2024-04-15 |
 | **Computer Architecture Basics** | CTU Prague - FEE (Pavel Pisa) | Course covering computer architecture basics, including CPU design and speculative execution. | [Course Videos](https://cw.fel.cvut.cz/wiki/courses/b35apo/en/lectures/start) | 2024-04-16 |
-| **Creating a RISC-V from scratch!** | Lucas Teske ( Teske's Lab ) | Learning livestream series focused on creating a RV32E that runs on FPGAs | [YouTube (Portuguese)](https://www.youtube.com/playlist?list=PLEP_M2UAh9q52a-w3ZUEChEoG_ROeMa88) | 2024-10-18 |
+| **Creating a RISC-V from scratch!** | Lucas Teske ( Teske's Lab ) | Learning livestream series focused on creating a RV32E that runs on FPGAs | [YouTube (Portuguese)](https://www.youtube.com/playlist?list=PLEP_M2UAh9q52a-w3ZUEChEoG_ROeMa88) | 2024-18-10 |
 | **Digital Design & Computer Architecture RISC-V edition** | Sarah L. Harris, David M. Harris | Covers foundational digital logic design and RISC-V processor implementation. | [Amazon](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642) | 2024-01-10 |
 | **Hands-on RISC-V Processor Design** | Rahul Behl | Dive into RISC-V processor design using SystemVerilog. | [QuickSilicon](https://quicksilicon.in/course/riscv) | 2024-01-10 |
 | **learn-FPGA episode I: from blinky to RISC-V** | Bruno Levy | Design an FPGA-based RISC-V softcore starting from a basic Verilog blinker. | [GitHub](https://github.com/BrunoLevy/learn-fpga) | 2024-01-10 |
@@ -95,7 +95,7 @@ Advanced learning materials for learners familiar with digital logic design.
 | **RV64GC Linker from Scratch in Go** | Yang Liu, PLCT Lab | Build an RV64GC architecture linker from scratch in Go. | [GitHub](https://github.com/ksco/rvld) and [Course Videos (Chinese)](https://space.bilibili.com/296494084/channel/collectiondetail?sid=857032) | 2024-04-24 |
 | **RVfpga (Extended): Understanding Computer Architecture** | Sarah Harris, Daniel Chaver-Martinez | Updated version of the RVfpga course with FPGA and simulation tools. | [RVfpga v3.0 Course Link](https://university.imgtec.com/rvfpga-el2-v3-0-english-downloads-page/) | 2024-02-06 |
 | **RVfpga: Computer Architecture with an Industrial RISC-V Core** | Sarah Harris, Daniel Chaver-Martinez | Hands-on learning with commercial RISC-V SoC on FPGAs. | [edX Course](https://www.edx.org/learn/computer-programming/the-linux-foundation-computer-architecture-with-an-industrial-risc-v-core) | 2024-01-10 |
-| **Teaching experiences with RVfpga** | ARTECS Group, Complutense University of Madrid | Demonstrates how RVfpga and the Ripes simulator were used in two courses at UCM: Computer Organization (2nd-year course) and Integrated Systems Architecture (4th-year course). | [GitHub](https://github.com/artecs-group/RVfpga-sim-addons) | 2024-10-18 |
+| **Teaching experiences with RVfpga** | ARTECS Group, Complutense University of Madrid | Demonstrates how RVfpga and the Ripes simu lator were used in two courses at UCM: Computer Organization (2nd-year course) and Integrated Systems Architecture (4th-year course). | [GitHub](https://github.com/artecs-group/RVfpga-sim-addons) | 2024-18-10 |
 | **Tutorial: RISC-V Vector Extension Demystified** | Thang Tran | In-depth introduction to the RISC-V vector extension. | [YouTube](https://youtu.be/oTaOd8qr53U) | 2024-01-10 |
 
 ---
@@ -109,13 +109,14 @@ Tools to enhance understanding or visualize the RISC-V ISA.
 |---|---|---|---|---|
 | **CREATOR** | Diego Camarmas Alonso, Félix García Carballeira, Alejandro Calderón Mateos, Elías del Pozo Puñal | Didactic simulator for RISC-V assembly programs. | [Website](https://creatorsim.github.io/creator/) | 2023-20-12 |
 | **emulsiV** | Guillaume Savaton | Visual simulator for a minimal 32-bit RISC processor. | [Website](https://eseo-tech.github.io/emulsiV/) | 2023-20-12 |
-| **Go RISC-V Emulator** | Lucas Teske | A golang implementation of RV32I+M that can run doom | [GitHub](https://github.com/racerxdl/riscv-emulator) | 2024-10-18 |
-| **GodBolt** | Matt Godbolt | Online Compiler Explorer that supports GCC/LLVM for RV64 | [Website](https://godbolt.org/) | 2024-10-18 |
-| **Online RISC-V Assembler** | Lucas Teske | Online RISC-V Assembler using gnu-assembler in webassembly | [Website](https://riscvasm.lucasteske.dev/) , [Github](https://github.com/racerxdl/riscv-online-asm) | 2024-10-18 |
-| **Piscado** | GustavonMartis | RISC-V Simulator written in python during twitch live coding | [Github](https://github.com/gustavonmartins/piscado) | 2024-10-18 |
+| **Go RISC-V Emulator** | Lucas Teske | A golang implementation of RV32I+M that can run doom | [GitHub](https://github.com/racerxdl/riscv-emulator) | 2024-18-10 |
+| **GodBolt** | Matt Godbolt | Online Compiler Explorer that supports GCC/LLVM for RV64 | [Website](https://godbolt.org/) | 2024-18-10 |
+| **Online RISC-V Assembler** | Lucas Teske | Online RISC-V Assembler using gnu-assembler in webassembly | [Website](https://riscvasm.lucasteske.dev/) , [Github](https://github.com/racerxdl/riscv-online-asm) | 2024-18-10 |
+| **Piscado** | GustavonMartis | RISC-V Simulator written in python during twitch live coding | [Github](https://github.com/gustavonmartins/piscado) | 2024-18-10 |
 | **QtRvSim** | CTU Prague | RISC-V simulator with cache and pipeline visualization. | [GitHub](https://github.com/cvut/qtrvsim/) | 2023-20-12 |
-| **RISC-V ALE** | Antonio Guimarães | RISC-V Assembly Learning Environment | [Website](https://riscv-programming.org/ale/) | 2024-10-18 |
+| **RISC-V ALE** | Antonio Guimarães | RISC-V Assembly Learning Environment | [Website](https://riscv-programming.org/ale/) | 2024-18-10 |
 | **RISC-V Instruction Encoder/Decoder** | LupLab | Online tool for encoding/decoding RISC-V instructions. | [Website](https://luplab.gitlab.io/rvcodecjs/) | 2023-20-12 |
+| **Risco-5S** | Julio Nunes Avelar | RISC-V Simulator with RV32IM implementation, built during a few days off. | [Github](https://github.com/JN513/Risco-5S) | 2023-4-11 |
 | **RVV Intrinsics Viewer** | dzaima | Documentation for RISC-V vector extension intrinsics. | [Website](https://dzaima.github.io/intrinsics-viewer/) | 2023-20-12 |
 
 ---
@@ -127,29 +128,30 @@ Explore open RISC-V implementations for hands-on learning.
 <!-- Keep this sorted alphabetically =) -->
 | Name | Description | Access | Date Added |
 |---|---|---|---|
-| **AUK-V-Aethia** | AUK-V RV32I CPU. | [Github](https://github.com/veeYceeY/AUK-V-Aethia) | 2024-10-18 |
-| **CVA6** | The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux | [Github](https://github.com/openhwgroup/cva6) | 2024-10-18 |
-| **CV32E40P** | CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform. | [Github](https://github.com/openhwgroup/cv32e40p) | 2024-10-18 |
-| **DarkRISCV** | Small RV32-E / I soft-core CPU optimized for FPGAs. | [GitHub](https://github.com/darklife/darkriscv) | 2024-10-18 |
-| **Kronos** | Kronos is a 3-stage in-order RISC-V RV32I_Zicsr_Zifencei core geared towards FPGA implementations. | [Github](https://github.com/SonalPinto/kronos) | 2024-10-18 |
-| **Leaf** | Leaf is a small RV32I SoC for portable applications done in VHDL and implemented both in FPGA and ASIC. | [Github](https://github.com/britovski/leaf) | 2024-10-23 |
-| **Maestro** | A 5 stage-pipeline RV32I implementation in VHDL. | [Github](https://github.com/Artoriuz/maestro) | 2024-10-18 |
-| **Mriscv** | A 32-bit Microcontroller featuring a RISC-V core. | [Github](https://github.com/onchipuis/mriscv) | 2024-10-18 |
+| **AUK-V-Aethia** | AUK-V RV32I CPU. | [Github](https://github.com/veeYceeY/AUK-V-Aethia) | 2024-18-10 |
+| **CVA6** | The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux | [Github](https://github.com/openhwgroup/cva6) | 2024-18-10 |
+| **CV32E40P** | CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform. | [Github](https://github.com/openhwgroup/cv32e40p) | 2024-18-10 |
+| **DarkRISCV** | Small RV32-E / I soft-core CPU optimized for FPGAs. | [GitHub](https://github.com/darklife/darkriscv) | 2024-18-10 |
+| **Grande Risco-5** | RISC-V RV32I multi-cycle processor with a 5-stage pipeline, designed for educational purposes. | [Github](https://github.com/JN513/Grande-Risco-5) | 2024-06-11 |
+| **Kronos** | Kronos is a 3-stage in-order RISC-V RV32I_Zicsr_Zifencei core geared towards FPGA implementations. | [Github](https://github.com/SonalPinto/kronos) | 2024-18-10 |
+| **Leaf** | Leaf is a small RV32I SoC for portable applications done in VHDL and implemented both in FPGA and ASIC. | [Github](https://github.com/britovski/leaf) | 2024-23-10 |
+| **Maestro** | A 5 stage-pipeline RV32I implementation in VHDL. | [Github](https://github.com/Artoriuz/maestro) | 2024-18-10 |
+| **Mriscv** | A 32-bit Microcontroller featuring a RISC-V core. | [Github](https://github.com/onchipuis/mriscv) | 2024-18-10 |
 | **NEORV32** | MCU-class RISC-V soft-core CPU, customizable and extensible. | [GitHub](https://github.com/stnolting/neorv32) | 2024-01-11 |
-| **NERV** | Naive Educational RISC V processor | [Github](https://github.com/YosysHQ/nerv) | 2024-10-18 |
-| **NoX** | Small RISC-V (RV32I) core written in SystemVerilog | [GitHub](https://github.com/aignacio/nox) | 2024-10-21 |
+| **NERV** | Naive Educational RISC V processor | [Github](https://github.com/YosysHQ/nerv) | 2024-18-10 |
+| **NoX** | Small RISC-V (RV32I) core written in SystemVerilog | [GitHub](https://github.com/aignacio/nox) | 2024-21-10 |
 | **Pequeno** | Pipelined in-order RISC-V CPU core compliant with RV32I. | [GitHub](https://github.com/iammituraj/pequeno_riscv) | 2023-20-12 |
-| **PicoRV32** | A Size-Optimized RISC-V CPU | [Github](https://github.com/YosysHQ/picorv32) | 2024-10-18 |
-| **ReonV** | ReonV is a modified version of the Leon3, a synthesisable VHDL model of a 32-bit processor originally compliant with the SPARC V8 architecture, now changed to RISC-V ISA. | [Github](https://github.com/lcbcFoo/ReonV) | 2024-10-18 |
-| **Riskow** | Toy RV32-E done from scratch during livestreams that runs on cheap FPGAs | [Github](https://github.com/racerxdl/riskow) | 2024-10-18 |
-| **Riscado-V** | Simple RISC-V (RV32I) implementation in verilog | [Github](https://github.com/zxmarcos/riscado-v) | 2024-10-18 |
-| **Risco-5** | Multi-cycle RISC-V processor with RV32I/E[M] implementation, built during a few days off | [Github](https://github.com/JN513/Risco-5) | 2024-10-18 |
-| **RISC-V Steel** | 32-bit RISC-V processor core (RV32I + Zicsr + Machine mode) | [Github](https://github.com/riscv-steel/riscv-steel) | 2024-10-18 |
-| **RPU** | Basic RISC-V CPU implementation in VHDL. | [Github](https://github.com/Domipheus/RPU) | 2024-10-18 |
-| **RSD** | RSD: RISC-V Out-of-Order Superscalar Processor | [Github](https://github.com/rsd-devel/rsd) | 2024-10-18 |
-| **SERV** | SERV - The SErial RISC-V CPU. | [Github](https://github.com/olofk/serv) | 2024-10-18 |
-| **TinyRiscv** | A very simple and easy to understand RISC-V core | [Github](https://github.com/liangkangnan/tinyriscv) | 2024-10-18 |
-| **VexRiscv** | A FPGA Friendly 32 bit RISC-V CPU implementation | [Github](https://github.com/SpinalHDL/VexRiscv) | 2024-10-18 |
+| **PicoRV32** | A Size-Optimized RISC-V CPU | [Github](https://github.com/YosysHQ/picorv32) | 2024-18-10 |
+| **ReonV** | ReonV is a modified version of the Leon3, a synthesisable VHDL model of a 32-bit processor originally compliant with the SPARC V8 architecture, now changed to RISC-V ISA. | [Github](https://github.com/lcbcFoo/ReonV) | 2024-18-10 |
+| **Riskow** | Toy RV32-E done from scratch during livestreams that runs on cheap FPGAs | [Github](https://github.com/racerxdl/riskow) | 2024-18-10 |
+| **Riscado-V** | Simple RISC-V (RV32I) implementation in verilog | [Github](https://github.com/zxmarcos/riscado-v) | 2024-18-10 |
+| **Risco-5** | Multi-cycle RISC-V processor with RV32I/E[M] implementation, built during a few days off | [Github](https://github.com/JN513/Risco-5) | 2024-18-10 |
+| **RISC-V Steel** | 32-bit RISC-V processor core (RV32I + Zicsr + Machine mode) | [Github](https://github.com/riscv-steel/riscv-steel) | 2024-18-10 |
+| **RPU** | Basic RISC-V CPU implementation in VHDL. | [Github](https://github.com/Domipheus/RPU) | 2024-18-10 |
+| **RSD** | RSD: RISC-V Out-of-Order Superscalar Processor | [Github](https://github.com/rsd-devel/rsd) | 2024-18-10 |
+| **SERV** | SERV - The SErial RISC-V CPU. | [Github](https://github.com/olofk/serv) | 2024-18-10 |
+| **TinyRiscv** | A very simple and easy to understand RISC-V core | [Github](https://github.com/liangkangnan/tinyriscv) | 2024-18-10 |
+| **VexRiscv** | A FPGA Friendly 32 bit RISC-V CPU implementation | [Github](https://github.com/SpinalHDL/VexRiscv) | 2024-18-10 |
 
 ---
 
@@ -158,30 +160,30 @@ Explore open RISC-V implementations for hands-on learning.
 <!-- Keep this sorted alphabetically =) -->
 | Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
 |---|---|---|---|---|
-| [**DC Roma II**](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/) | DeepComputing | SpacemiT K1 | Octa-Core X60™ | 2024-10-31 |
-| [**HiFive Premier P550**](https://www.sifive.com/boards/hifive-premier-p550) | SiFive | ESWIN EIC7700X | SiFive Quad-Core P550 | 2024-10-31 |
-| [**HiFive Unmatched**](https://www.sifive.com/boards/hifive-unmatched) | SiFive | SiFive U74‑MC | 64-bit S7 | 2024-10-31 |
-| [**HiFive1 Rev B**](https://www.sifive.com/boards/hifive1-rev-b) | SiFive | FE310-G002 | 32-bit E31 | 2024-10-31 |
-| [**LicheeRV D1**](https://wiki.sipeed.com/hardware/en/lichee/RV/Dock.html) | Sipeed | AllWinnerD1 | Single-Core T-Head C906 | 2024-10-31 |
-| [**LicheeRV Nano**](https://wiki.sipeed.com/hardware/en/lichee/RV_Nano/1_intro.html) | Sipeed | SG2002 | Single-Core T-HEAD C906 | 2024-10-31 |
-| [**LicheePi 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lpi4a/1_intro.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-10-31 |
-| [**LicheeBook 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lbook4a/lbook4a.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-10-31 |
-| [**LicheePi Console 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lcon4a/lcon4a.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-10-31 |
-| [**LicheePi 3A**](https://wiki.sipeed.com/hardware/en/lichee/K1/lpi3a/1_intro.html) | Sipeed | SpacemiT K1 | Octa-Core X60 | 2024-10-31 | 
-| [**VisionFive 2**](https://www.starfivetech.com/en/site/boards) | StarFiveTech | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
-| [**Milk-V Duo**](https://milkv.io/duo) | Milk-V | SG2002 | T-HEAD C906 | 2024-10-31 | 
-| [**Milk-V Mars**](https://milkv.io/mars) | Milk-V | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
-| [**Milk-V Meles**](https://milkv.io/meles) | Milk-V | TH1520 | Quad-Core T-HEAD C910 | 2024-10-31 | 
-| [**Milk-V Pioneer**](https://milkv.io/pioneer) | Milk-V | SG2042 | 64 Cores T-HEAD C910 | 2024-10-31 | 
-| [**Milk-V Vega**](https://milkv.io/vega) | Milk-V | FSL1030M | UX608 Core | 2024-10-31 | 
-| [**Milk-V Jupiter**](https://milkv.io/jupiter) | Milk-V | SpacemiT K1 | Octa-Core X60 | 2024-10-31 | 
-| [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
-| [**PineTab-V**](https://pine64.com/product/pinetab-v-10-1-8gb-128gb-risc-v-based-linux-tablet-with-detached-backlit-keyboard/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
-| [**Ox64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | BL808 | T-HEAD C906, T-HEAD E907, T-HEAD E902 | 2024-10-31 | 
-| [**OK7110-C**](https://www.forlinx.net/product/jh7110-single-board-computer-riscv-142.html) | ForLinx | JH7110 | Quad-Core Sifive u74 | 2024-10-31 | 
-| [**Kendryte K230**](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) | Canaan Technology | K230 | Dual-Core T-HEAD C908 | 2024-11-01 | 
-| [**SpacemiT MUSE Pi**](https://www.spacemit.com/spacemit-muse-pi/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2024-11-01 | 
-| [**Banana Pi F3**](https://docs.banana-pi.org/en/BPI-F3/BananaPi_BPI-F3) | Banana Pi | SpacemiT K1 | Octa-Core X60 | 2024-11-01 | 
+| [**DC Roma II**](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/) | DeepComputing | SpacemiT K1 | Octa-Core X60™ | 2024-31-10 |
+| [**HiFive Premier P550**](https://www.sifive.com/boards/hifive-premier-p550) | SiFive | ESWIN EIC7700X | SiFive Quad-Core P550 | 2024-31-10 |
+| [**HiFive Unmatched**](https://www.sifive.com/boards/hifive-unmatched) | SiFive | SiFive U74‑MC | 64-bit S7 | 2024-31-10 |
+| [**HiFive1 Rev B**](https://www.sifive.com/boards/hifive1-rev-b) | SiFive | FE310-G002 | 32-bit E31 | 2024-31-10 |
+| [**LicheeRV D1**](https://wiki.sipeed.com/hardware/en/lichee/RV/Dock.html) | Sipeed | AllWinnerD1 | Single-Core T-Head C906 | 2024-31-10 |
+| [**LicheeRV Nano**](https://wiki.sipeed.com/hardware/en/lichee/RV_Nano/1_intro.html) | Sipeed | SG2002 | Single-Core T-HEAD C906 | 2024-31-10 |
+| [**LicheePi 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lpi4a/1_intro.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-31-10 |
+| [**LicheeBook 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lbook4a/lbook4a.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-31-10 |
+| [**LicheePi Console 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lcon4a/lcon4a.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-31-10 |
+| [**LicheePi 3A**](https://wiki.sipeed.com/hardware/en/lichee/K1/lpi3a/1_intro.html) | Sipeed | SpacemiT K1 | Octa-Core X60 | 2024-31-10 | 
+| [**VisionFive 2**](https://www.starfivetech.com/en/site/boards) | StarFiveTech | JH7110 | Quad-Core Sifive u74 | 2024-31-10 | 
+| [**Milk-V Duo**](https://milkv.io/duo) | Milk-V | SG2002 | T-HEAD C906 | 2024-31-10 | 
+| [**Milk-V Mars**](https://milkv.io/mars) | Milk-V | JH7110 | Quad-Core Sifive u74 | 2024-31-10 | 
+| [**Milk-V Meles**](https://milkv.io/meles) | Milk-V | TH1520 | Quad-Core T-HEAD C910 | 2024-31-10 | 
+| [**Milk-V Pioneer**](https://milkv.io/pioneer) | Milk-V | SG2042 | 64 Cores T-HEAD C910 | 2024-31-10 | 
+| [**Milk-V Vega**](https://milkv.io/vega) | Milk-V | FSL1030M | UX608 Core | 2024-31-10 | 
+| [**Milk-V Jupiter**](https://milkv.io/jupiter) | Milk-V | SpacemiT K1 | Octa-Core X60 | 2024-31-10 | 
+| [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-31-10 | 
+| [**PineTab-V**](https://pine64.com/product/pinetab-v-10-1-8gb-128gb-risc-v-based-linux-tablet-with-detached-backlit-keyboard/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-31-10 | 
+| [**Ox64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | BL808 | T-HEAD C906, T-HEAD E907, T-HEAD E902 | 2024-31-10 | 
+| [**OK7110-C**](https://www.forlinx.net/product/jh7110-single-board-computer-riscv-142.html) | ForLinx | JH7110 | Quad-Core Sifive u74 | 2024-31-10 | 
+| [**Kendryte K230**](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) | Canaan Technology | K230 | Dual-Core T-HEAD C908 | 2024-01-11 | 
+| [**SpacemiT MUSE Pi**](https://www.spacemit.com/spacemit-muse-pi/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2024-01-11 | 
+| [**Banana Pi F3**](https://docs.banana-pi.org/en/BPI-F3/BananaPi_BPI-F3) | Banana Pi | SpacemiT K1 | Octa-Core X60 | 2024-01-11 | 
 
 
 ---
