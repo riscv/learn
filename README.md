@@ -22,7 +22,6 @@ A community-driven compilation of RISC-V resources and learning material. The li
     - [Software and Tools](#software-and-tools)
     - [Open RISC-V Implementations](#open-risc-v-implementations)
     - [Available RISC-V Boards, Development Kits, Tablets, and Laptops](#available-risc-v-boards-development-kits-tablets-and-laptops)
-    - [Relevant Documentation from RISC-V International](#relevant-documentation-from-risc-v-international)
     - [Articles and Presentations](#articles-and-presentations)
 
 ---
@@ -191,21 +190,6 @@ Explore open RISC-V implementations for hands-on learning.
 | [**Raspberry Pi Pico 2**](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) | Raspberry Pi | RP2350 | Dual-Core Hazard3 | 2024-19-12 | 
 | [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-31-10 |
 | [**SpacemiT MUSE Pi**](https://www.spacemit.com/spacemit-muse-pi/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2024-01-11 |
-
----
-
-### Relevant Documentation from RISC-V International
-
-<!-- Keep this sorted alphabetically =) -->
-| Document | Description | Access |
-|---|---|---|
-| **Getting Started Guide** | Overview of RISC-V technical organizations for new members | [Google Doc](https://docs.google.com/document/d/1Qjf6BwMmtqTfzftr3WWf2bRv8Cl4f0qZrWWbr0jCBSU/edit) |
-| **Member Benefits Deck** | Familiarize with RISC-V member benefits and community scope | [Google Doc](https://docs.google.com/presentation/d/1Q8gMcVwzqdqym3ugl_Q-LW0KMUApO-v8mWVdjqQE-MI/edit#slide=id.gf097992cc3_0_1819) |
-| **RISC-V Lifecycle Guide** | Guide for RISC-V members participating in specification writing and open-source contributions | [Google Doc](https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/) |
-| **RISC-V Repository Map** | Central directory of RISC-V-related repositories | [GitHub Repo Map](https://wiki.riscv.org/display/HOME/GitHub+Repo+Map) |
-| **RISC-V Technical Wiki** | Central point for technical information related to RISC-V | [Wiki](https://wiki.riscv.org) |
-
----
 
 ### Articles and Presentations
 
