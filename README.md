@@ -101,6 +101,7 @@ Advanced learning materials for learners familiar with digital logic design.
 | **RVfpga: Computer Architecture with an Industrial RISC-V Core** | Sarah Harris, Daniel Chaver-Martinez | Hands-on learning with commercial RISC-V SoC on FPGAs. | [edX Course](https://www.edx.org/learn/computer-programming/the-linux-foundation-computer-architecture-with-an-industrial-risc-v-core) | 2024-10-01 |
 | **Teaching experiences with RVfpga** | ARTECS Group, Complutense University of Madrid | Demonstrates how RVfpga and the Ripes simu lator were used in two courses at UCM: Computer Organization (2nd-year course) and Integrated Systems Architecture (4th-year course). | [GitHub](https://github.com/artecs-group/RVfpga-sim-addons) | 2024-18-10 |
 | **Tutorial: RISC-V Vector Extension Demystified** | Thang Tran | In-depth introduction to the RISC-V vector extension. | [YouTube](https://youtu.be/oTaOd8qr53U) | 2024-10-01 |
+| **Tutorial: basic_RV32s** | [T410N](https://github.com/T410N) | basic_RV32s provides a systematic microarchitectural roadmap for learning RISC-V processor design from scratch. | [basic_RV32s](https://github.com/RISC-KC/basic_rv32s) | 2024-07-25 |
 
 ---
 
