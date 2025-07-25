@@ -22,6 +22,8 @@ A community-driven compilation of RISC-V resources and learning material. The li
     - [Software and Tools](#software-and-tools)
     - [Open RISC-V Implementations](#open-risc-v-implementations)
     - [Available RISC-V Boards, Development Kits, Tablets, and Laptops](#available-risc-v-boards-development-kits-tablets-and-laptops)
+      - [🟢 32-bit Hardware](#-32-bit-hardware)
+      - [🔵 64-bit Hardware](#-64-bit-hardware)
     - [Articles and Presentations](#articles-and-presentations)
 
 ---
@@ -160,14 +162,34 @@ Explore open RISC-V implementations for hands-on learning.
 
 ### Available RISC-V Boards, Development Kits, Tablets, and Laptops
 
+#### 🟢 32-bit Hardware
+Hardware based on RV32 based processors
+
+<!-- Keep this sorted alphabetically =) -->
+| Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
+|---|---|---|---|---|
+| [**ESP32C2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C2 | Single-Core 32-bit | 2025-25-07 |
+| [**ESP32C3 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C3 | Single-Core 32-bit | 2025-25-07 |
+| [**ESP32C5 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C5 | Single-Core 32-bit | 2025-25-07 |
+| [**ESP32C6 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C6 | Single-Core 32-bit | 2025-25-07 |
+| [**ESP32H2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32H2 | Single-Core 32-bit | 2025-25-07 |
+| [**ESP32P4 EV Board**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32P4 | Dual-Core 32-bit | 2025-25-07 |
+| [**HiFive1 Rev B**](https://www.sifive.com/boards/hifive1-rev-b) | SiFive | FE310-G002 | 32-bit E31 | 2024-31-10 |
+| [**CH32V003 Devkit**](https://www.aliexpress.com/item/1005004895791296.html) | WCH | CH32V003 | Single-Core QingKe V2A| 2025-25-07 |
+| [**Raspberry Pi Pico 2**](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) | Raspberry Pi | RP2350 | Dual-Core Hazard3 | 2024-19-12 |
+| [**Longan Nano**](https://wiki.sipeed.com/hardware/en/longan/Nano/Longan_nano.html) | Sipeed | GD32VF103CBT6 | Single-Core 32-bit | 2025-25-07 |
+
+#### 🔵 64-bit Hardware
+Hardware based on RV64 based processors
+
 <!-- Keep this sorted alphabetically =) -->
 | Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
 |---|---|---|---|---|
 | [**Banana Pi F3**](https://docs.banana-pi.org/en/BPI-F3/BananaPi_BPI-F3) | Banana Pi | SpacemiT K1 | Octa-Core X60 | 2024-01-11 |
+| [**DC Roma AI PC**](https://deepcomputing.io/product/dc-roma-risc-v-ai-pc/) | DeepComputing | ESWIN EIC7700X | Octa-Core P550| 2025-25-07 |
 | [**DC Roma II**](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/) | DeepComputing | SpacemiT K1 | Octa-Core X60™ | 2024-31-10 |
 | [**HiFive Premier P550**](https://www.sifive.com/boards/hifive-premier-p550) | SiFive | ESWIN EIC7700X | SiFive Quad-Core P550 | 2024-31-10 |
 | [**HiFive Unmatched**](https://www.sifive.com/boards/hifive-unmatched) | SiFive | SiFive U74‑MC | 64-bit S7 | 2024-31-10 |
-| [**HiFive1 Rev B**](https://www.sifive.com/boards/hifive1-rev-b) | SiFive | FE310-G002 | 32-bit E31 | 2024-31-10 |
 | [**Kendryte K230**](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) | Canaan Technology | K230 | Dual-Core T-HEAD C908 | 2024-01-11 |
 | [**LicheeRV D1**](https://wiki.sipeed.com/hardware/en/lichee/RV/Dock.html) | Sipeed | AllWinnerD1 | Single-Core T-Head C906 | 2024-31-10 |
 | [**LicheeRV Nano**](https://wiki.sipeed.com/hardware/en/lichee/RV_Nano/1_intro.html) | Sipeed | SG2002 | Single-Core T-HEAD C906 | 2024-31-10 |
@@ -187,7 +209,6 @@ Explore open RISC-V implementations for hands-on learning.
 | [**Ox64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | BL808 | T-HEAD C906, T-HEAD E907, T-HEAD E902 | 2024-31-10 |
 | [**OK7110-C**](https://www.forlinx.net/product/jh7110-single-board-computer-riscv-142.html) | ForLinx | JH7110 | Quad-Core Sifive u74 | 2024-31-10 |
 | [**PineTab-V**](https://pine64.com/product/pinetab-v-10-1-8gb-128gb-risc-v-based-linux-tablet-with-detached-backlit-keyboard/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-31-10 |
-| [**Raspberry Pi Pico 2**](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) | Raspberry Pi | RP2350 | Dual-Core Hazard3 | 2024-19-12 | 
 | [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-31-10 |
 | [**SpacemiT MUSE Pi**](https://www.spacemit.com/spacemit-muse-pi/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2024-01-11 |
 
