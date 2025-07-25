@@ -22,6 +22,8 @@ A community-driven compilation of RISC-V resources and learning material. The li
     - [Software and Tools](#software-and-tools)
     - [Open RISC-V Implementations](#open-risc-v-implementations)
     - [Available RISC-V Boards, Development Kits, Tablets, and Laptops](#available-risc-v-boards-development-kits-tablets-and-laptops)
+      - [🟢 32-bit Hardware](#-32-bit-hardware)
+      - [🔵 64-bit Hardware](#-64-bit-hardware)
     - [Articles and Presentations](#articles-and-presentations)
 
 ---
@@ -159,6 +161,12 @@ Explore open RISC-V implementations for hands-on learning.
 ---
 
 ### Available RISC-V Boards, Development Kits, Tablets, and Laptops
+
+#### 🟢 32-bit Hardware
+Hardware based on RV32 based processors
+
+#### 🔵 64-bit Hardware
+Hardware based on RV64 based processors
 
 <!-- Keep this sorted alphabetically =) -->
 | Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
