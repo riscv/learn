@@ -187,6 +187,8 @@ Hardware based on RV64 based processors
 | Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
 |---|---|---|---|---|
 | [**Banana Pi F3**](https://docs.banana-pi.org/en/BPI-F3/BananaPi_BPI-F3) | Banana Pi | SpacemiT K1 | Octa-Core X60 | 2024-01-11 |
+| [**BeagleV-Ahead**](https://www.beagleboard.org/boards/beaglev-ahead) |  BeagleBoard.org | TH1520 | T-HEAD Quad-Core Xuantie C910 | 2025-26-07 |
+| [**BeagleV-Fire**](https://www.beagleboard.org/boards/beaglev-fire) | BeagleBoard.org | Microchip Polarfire MPFS025T | 4x 64-bit RV64GC + 1x 64-bit RV64IMAC | 2025-26-07 |
 | [**DC Roma AI PC**](https://deepcomputing.io/product/dc-roma-risc-v-ai-pc/) | DeepComputing | ESWIN EIC7700X | Octa-Core P550| 2025-25-07 |
 | [**DC Roma II**](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/) | DeepComputing | SpacemiT K1 | Octa-Core X60™ | 2024-31-10 |
 | [**HiFive Premier P550**](https://www.sifive.com/boards/hifive-premier-p550) | SiFive | ESWIN EIC7700X | SiFive Quad-Core P550 | 2024-31-10 |
