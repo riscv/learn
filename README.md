@@ -79,6 +79,8 @@ For those with little or no knowledge of digital logic design. After studying th
 | **Step-by-step RISC-V Compiler Development** | Shao-Ce SUN | Practical guide to RISC-V C compiler development. | [Teaching Resources](https://github.com/sunshaoce/rvcc-course) and [Course Videos (Chinese)](https://www.bilibili.com/video/BV1gY4y1E7Ue) | 2024-20-03 |
 | **Step-by-step RISC-V OS Development** | Chen Wang | Practical guide for developing RISC-V operating systems. | [Teaching Resources](https://github.com/plctlab/riscv-operating-system-mooc) and [Course Videos (Chinese)](https://www.bilibili.com/video/BV1Q5411w7z5) | 2024-05-03 |
 | **The RISC-V Reader: An Open Architecture Atlas** | David Patterson, Andrew Waterman | Introduction to the RISC-V instruction set. | [RISC-V Reader](http://www.riscbook.com/) | 2024-05-03 |
+| **Writing A RISC-V OS From Scratch** |  Seiya Nuta | Book covering how to write your own operating system for RISC-V in about 1,000 lines of code. | [Webpage](https://operating-system-in-1000-lines.vercel.app/en/) | 2025-27-07 |
+
 
 ---
 
