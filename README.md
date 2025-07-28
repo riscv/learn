@@ -203,6 +203,7 @@ Hardware based on RV64 based processors
 | [**LicheePi Console 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lcon4a/lcon4a.html) | Sipeed | TH1520 | Quad-Core T-HEAD C910 | 2024-31-10 |
 | [**LicheePi 3A**](https://wiki.sipeed.com/hardware/en/lichee/K1/lpi3a/1_intro.html) | Sipeed | SpacemiT K1 | Octa-Core X60 | 2024-31-10 |
 | [**VisionFive 2**](https://www.starfivetech.com/en/site/boards) | StarFiveTech | JH7110 | Quad-Core Sifive u74 | 2024-31-10 |
+| [**MangoPi MQ-Pro**](https://mangopi.org/mqpro) | MangoPi | D1 | Single-Core T-Head C906 | 2025-28-07 |
 | [**Milk-V Duo**](https://milkv.io/docs/duo/getting-started/duo) | Milk-V | CV1800B | T-HEAD C906 | 2024-31-10 |
 | [**Milk-V Duo256M**](https://milkv.io/docs/duo/getting-started/duo256m) | Milk-V | SG2002 | T-HEAD C906 | 2024-31-10 |
 | [**Milk-V Duo S**](https://milkv.io/docs/duo/getting-started/duos) | Milk-V | SG2000 | T-HEAD C906 | 2024-31-10 |
