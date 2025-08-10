@@ -160,7 +160,7 @@ Explore open RISC-V implementations for hands-on learning.
 | **SERV** | SERV - The SErial RISC-V CPU. | [Github](https://github.com/olofk/serv) | 2024-18-10 |
 | **TinyRiscv** | A very simple and easy to understand RISC-V core | [Github](https://github.com/liangkangnan/tinyriscv) | 2024-18-10 |
 | **VexRiscv** | A FPGA Friendly 32 bit RISC-V CPU implementation | [Github](https://github.com/SpinalHDL/VexRiscv) | 2024-18-10 |
-
+| **SGDH-RVSoC** | An incredibly small 32-bit RISC-V rv32acim CPU capable of running Linux on FPGA, and software simulations | [Github](https://github.com/semisgdh/SGDH-RVSoC) | 2025-08-10 |
 ---
 
 ### Available RISC-V Boards, Development Kits, Tablets, and Laptops
