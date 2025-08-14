@@ -125,6 +125,7 @@ Tools to enhance understanding or visualize the RISC-V ISA.
 | **RISC-V Instruction Encoder/Decoder** | LupLab | Online tool for encoding/decoding RISC-V instructions. | [Website](https://luplab.gitlab.io/rvcodecjs/) | 2023-20-12 |
 | **Risco-5S** | Julio Nunes Avelar | RISC-V Simulator with RV32IM implementation, built during a few days off. | [Github](https://github.com/JN513/Risco-5S) | 2023-4-11 |
 | **RVV Intrinsics Viewer** | dzaima | Documentation for RISC-V vector extension intrinsics. | [Website](https://dzaima.github.io/intrinsics-viewer/) | 2023-20-12 |
+| **WebRISCV** | Roberto Giorgi, Gianfranco Mariotti |  Web-based graphical simulation with pipeline visualization for RV32IM/RV64IM| [Website](https://github.com/Mariotti94/WebRISC-V/) | 2025-14-08 |
 
 ---
 
