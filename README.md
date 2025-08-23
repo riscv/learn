@@ -167,24 +167,30 @@ Explore open RISC-V implementations for hands-on learning.
 ### Available RISC-V Boards, Development Kits, Tablets, and Laptops
 
 #### 🟢 32-bit Hardware
-Hardware based on RV32 based processors
+Popular hardware based on RV32 based processors
 
 <!-- Keep this sorted alphabetically =) -->
-| Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
+| Board or Dev Kit | Company | SoC | RISC-V Core | Frequency | Date Added |
 |---|---|---|---|---|
-| [**ESP32C2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C2 | Single-Core 32-bit | 2025-25-07 |
-| [**ESP32C3 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C3 | Single-Core 32-bit | 2025-25-07 |
-| [**ESP32C5 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C5 | Single-Core 32-bit | 2025-25-07 |
-| [**ESP32C6 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C6 | Single-Core 32-bit | 2025-25-07 |
-| [**ESP32H2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32H2 | Single-Core 32-bit | 2025-25-07 |
-| [**ESP32P4 EV Board**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32P4 | Dual-Core 32-bit | 2025-25-07 |
-| [**HiFive1 Rev B**](https://www.sifive.com/boards/hifive1-rev-b) | SiFive | FE310-G002 | 32-bit E31 | 2024-31-10 |
-| [**CH32V003 Devkit**](https://www.aliexpress.com/item/1005004895791296.html) | WCH | CH32V003 | Single-Core QingKe V2A| 2025-25-07 |
-| [**Raspberry Pi Pico 2**](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) | Raspberry Pi | RP2350 | Dual-Core Hazard3 | 2024-19-12 |
-| [**Longan Nano**](https://wiki.sipeed.com/hardware/en/longan/Nano/Longan_nano.html) | Sipeed | GD32VF103CBT6 | Single-Core 32-bit | 2025-25-07 |
+| [**CH32V003 Devkit**](https://www.aliexpress.com/item/1005004895791296.html) | WCH | CH32V003 | Single-Core QingKe V2A | 48 MHz | 2025-25-07 |
+| [**ESP32C2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C2 | Single-Core 32-bit | 120 MHz | 2025-25-07 |
+| [**ESP32C3 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C3 | Single-Core 32-bit | 160 MHz | 2025-25-07 |
+| [**ESP32C5 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C5 | Single-Core 32-bit | 240 MHz | 2025-25-07 |
+| [**ESP32C6 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C6 | Single-Core 32-bit | 160 MHz | 2025-25-07 |
+| [**ESP32H2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32H2 | Single-Core 32-bit | 96 MHz | 2025-25-07 |
+| [**ESP32P4 EV Board**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32P4 | Dual-Core 32-bit | 360 MHz | 2025-25-07 |
+| [**Longan Nano**](https://wiki.sipeed.com/hardware/en/longan/Nano/Longan_nano.html) | Sipeed | GD32VF103CBT6 | Single-Core 32-bit | 108 MHz | 2025-25-07 |
+| [**M0sense**](https://wiki.sipeed.com/hardware/en/maixzero/sense/maix_zero_sense.html) | Sipeed | BL702 | Single-Core 32-bit | 144 MHz | 2025-24-08 |
+| [**Raspberry Pi Pico 2**](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) | Raspberry Pi | RP2350 | Dual-Core Hazard3 | 150 MHz | 2024-19-12 |
+
+Following are no longer available:
+| Board or Dev Kit | Company | SoC | RISC-V Core | Frequency | Date Added |
+|---|---|---|---|---|
+| [**HiFive1**](https://www.sifive.com/boards/hifive1) | SiFive | FE310-G000 | 32-bit E31 | 256 MHz | 2024-31-10 |
+| [**HiFive1 Rev B**](https://www.sifive.com/boards/hifive1-rev-b) | SiFive | FE310-G002 | 32-bit E31 | 256 MHz | 2024-31-10 |
 
 #### 🔵 64-bit Hardware
-Hardware based on RV64 based processors
+Popular hardware based on RV64 based processors
 
 <!-- Keep this sorted alphabetically =) -->
 | Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
