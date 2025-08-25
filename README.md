@@ -171,7 +171,7 @@ Popular hardware based on RV32 based processors
 
 <!-- Keep this sorted alphabetically =) -->
 | Board or Dev Kit | Company | SoC | RISC-V Core | Frequency | Date Added |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | [**CH32V003 Devkit**](https://www.aliexpress.com/item/1005004895791296.html) | WCH | CH32V003 | Single-Core QingKe V2A | 48 MHz | 2025-25-07 |
 | [**ESP32C2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C2 | Single-Core 32-bit | 120 MHz | 2025-25-07 |
 | [**ESP32C3 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C3 | Single-Core 32-bit | 160 MHz | 2025-25-07 |
@@ -185,7 +185,7 @@ Popular hardware based on RV32 based processors
 
 Following are no longer available:
 | Board or Dev Kit | Company | SoC | RISC-V Core | Frequency | Date Added |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | [**HiFive1**](https://www.sifive.com/boards/hifive1) | SiFive | FE310-G000 | 32-bit E31 | 256 MHz | 2024-31-10 |
 | [**HiFive1 Rev B**](https://www.sifive.com/boards/hifive1-rev-b) | SiFive | FE310-G002 | 32-bit E31 | 256 MHz | 2024-31-10 |
 
