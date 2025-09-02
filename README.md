@@ -224,6 +224,8 @@ Popular hardware based on RV64 based processors
 | [**PineTab-V**](https://pine64.com/product/pinetab-v-10-1-8gb-128gb-risc-v-based-linux-tablet-with-detached-backlit-keyboard/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-31-10 |
 | [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-Core Sifive u74 | 2024-31-10 |
 | [**SpacemiT MUSE Pi**](https://www.spacemit.com/spacemit-muse-pi/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2024-01-11 |
+| [**SpacemiT MUSE Pi Pro**](https://www.spacemit.com/spacemit-muse-pi-pro/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2025-02-09 |
+| [**SpacemiT MUSE Card**](https://www.spacemit.com/spacemit-muse-card/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2025-02-09 |
 
 ### Articles and Presentations
 
