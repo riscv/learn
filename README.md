@@ -1,5 +1,9 @@
 # Learn RISC-V
-Test 2
+
+<!-- last_verified_all:start -->
+<!-- > Links last verified: _never_. -->
+<!-- last_verified_all:end -->
+
 [![Check Markdown links](https://github.com/riscv/learn/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/riscv/learn/actions/workflows/action.yml)
 
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically updated by the community and categorized based on different contexts of the RISC-V scope, taking into account different levels of experience/knowledge, allowing anyone interested in RISC-V to discover resources (courses, software, documentation, articles) in an organized fashion.
@@ -21,6 +25,7 @@ A community-driven compilation of RISC-V resources and learning material. The li
       - [🔵 Intermediate-Level Resources](#-intermediate-level-resources)
     - [Software and Tools](#software-and-tools)
     - [Open RISC-V Implementations](#open-risc-v-implementations)
+  - [| **SGDH-RVSoC** | An incredibly small 32-bit RISC-V rv32acim CPU capable of running Linux on FPGA, and software simulations | Github | 2025-08-10 |](#-sgdh-rvsoc--an-incredibly-small-32-bit-risc-v-rv32acim-cpu-capable-of-running-linux-on-fpga-and-software-simulations--github--2025-08-10-)
     - [Available RISC-V Boards, Development Kits, Tablets, and Laptops](#available-risc-v-boards-development-kits-tablets-and-laptops)
       - [🟢 32-bit Hardware](#-32-bit-hardware)
       - [🔵 64-bit Hardware](#-64-bit-hardware)

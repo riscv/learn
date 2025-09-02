@@ -1,0 +1,85 @@
+name: Nightly Link Check + README Stamp
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 03:00 UTC, nightly
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Prepare report directory
+        run: mkdir -p lychee
+
+      # Optional but recommended: cache to reduce rate limits/timeouts
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee (link checker)
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # CLI args only; DO NOT put format/output here
+          args: >-
+            --base .
+            --cache --max-cache-age 1w
+            --no-progress
+            --max-concurrency 8
+            --retry-wait-time 2
+            --timeout 20
+            --accept 200,206,301,302,308
+            --exclude-mail
+            .
+          # Action inputs for report emission
+          format: json
+          output: lychee/out.json
+          fail: false                     # don't fail the job on broken links
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save lychee cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .lycheecache
+          key: ${{ steps.lychee.outputs.cache-primary-key || format('cache-lychee-{0}', github.sha) }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update README
+        run: |
+          python .github/scripts/stamp_readme.py \
+            --report lychee/out.json \
+            --readme README.md \
+            --marker "last_verified_all"
+
+      - name: Commit changes (only if README changed)
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: nightly link check stamp"
+          file_pattern: README.md
+
+      # Optional: upload the report if it exists (no noisy warnings)
+      - name: Upload lychee report (optional)
+        if: ${{ hashFiles('lychee/out.json') != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: lychee/out.json
