@@ -1,9 +1,5 @@
 # Learn RISC-V
 
-<!-- last_verified_all:start -->
-> ❌ Link verification attempted on **2025-09-03** — report unavailable (likely rate-limit or CI hiccup).
-<!-- last_verified_all:end -->
-
 [![Check Markdown links](https://github.com/riscv/learn/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/riscv/learn/actions/workflows/action.yml)
 
 A community-driven compilation of RISC-V resources and learning material. The list is dynamically updated by the community and categorized based on different contexts of the RISC-V scope, taking into account different levels of experience/knowledge, allowing anyone interested in RISC-V to discover resources (courses, software, documentation, articles) in an organized fashion.
