@@ -1,7 +1,7 @@
 # Learn RISC-V
 
 <!-- last_verified_all:start -->
-<!-- > Links last verified: _never_. -->
+> ❌ Link verification attempted on **2025-09-03** — report unavailable (likely rate-limit or CI hiccup).
 <!-- last_verified_all:end -->
 
 [![Check Markdown links](https://github.com/riscv/learn/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/riscv/learn/actions/workflows/action.yml)
