@@ -85,7 +85,7 @@ For those with little or no knowledge of digital logic design. After studying th
 | **Step-by-step RISC-V OS Development** | Chen Wang | Practical guide for developing RISC-V operating systems. | [Teaching Resources](https://github.com/plctlab/riscv-operating-system-mooc) and [Course Videos (Chinese)](https://www.bilibili.com/video/BV1Q5411w7z5) | 2024-05-03 |
 | **The RISC-V Reader: An Open Architecture Atlas** | David Patterson, Andrew Waterman | Introduction to the RISC-V instruction set. | [RISC-V Reader](http://www.riscbook.com/) | 2024-05-03 |
 | **Writing A RISC-V OS From Scratch** |  Seiya Nuta | Book covering how to write your own operating system for RISC-V in about 1,000 lines of code. | [Webpage](https://operating-system-in-1000-lines.vercel.app/en/) | 2025-27-07 |
-
+| **Why Your Phone is so Fast: The Sports Car vs. The Truck** |  David Patterson | How Do We Keep Making Computers Faster? | [Webpage](https://kids.frontiersin.org/articles/10.3389/frym.2025.1474522) | 2025-02-09 |
 
 ---
 
