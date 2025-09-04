@@ -231,6 +231,9 @@ Popular hardware based on RV64 based processors
 | [**SpacemiT MUSE Pi**](https://www.spacemit.com/spacemit-muse-pi/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2024-01-11 |
 | [**SpacemiT MUSE Pi Pro**](https://www.spacemit.com/spacemit-muse-pi-pro/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2025-02-09 |
 | [**SpacemiT MUSE Card**](https://www.spacemit.com/spacemit-muse-card/) | SpacemiT | SpacemiT M1 | Octa-Core X60 | 2025-02-09 |
+| [**SpacemiT MUSE Book**](https://www.spacemit.com/spacemit-muse/) | SpacemiT | SpacemiT K1 | Octa-Core X60 | 2025-04-09 |
+| [**SpacemiT MUSE Box**](https://www.spacemit.com/spacemit-muse-box/) | SpacemiT | SpacemiT K1 | Octa-Core X60 | 2025-04-09 |
+| [**SpacemiT MUSE Paper**](https://www.spacemit.com/spacemit-muse-paper/) | SpacemiT | SpacemiT K1 | Octa-Core X60 | 2025-04-09 |
 
 ### Articles and Presentations
 
