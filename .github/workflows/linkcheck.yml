@@ -1,8 +1,8 @@
 name: Nightly Link Check + README Stamp
 
 on:
-  schedule:
-    - cron: "0 3 * * *"   # 03:00 UTC, nightly
+  # schedule:
+  #   - cron: "0 3 * * *"   # 03:00 UTC, nightly
   workflow_dispatch:
 
 permissions:
