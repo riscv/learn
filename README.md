@@ -142,7 +142,8 @@ Explore open RISC-V implementations for hands-on learning.
 | **CV32E40P** | CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform. | [Github](https://github.com/openhwgroup/cv32e40p) | 2024-18-10 |
 | **DarkRISCV** | Small RV32-E / I soft-core CPU optimized for FPGAs. | [GitHub](https://github.com/darklife/darkriscv) | 2024-18-10 |
 | **Grande Risco-5** | RISC-V RV32I multi-cycle processor with a 5-stage pipeline, designed for educational purposes. | [Github](https://github.com/JN513/Grande-Risco-5) | 2024-06-11 |
-| **Hazard3** | 3-stage RV32IMACZb* processor with debug | [Github](https://github.com/Wren6991/Hazard3) |2024-19-12 | 
+| **Hazard3** | 3-stage RV32IMACZb* processor with debug | [Github](https://github.com/Wren6991/Hazard3) |2024-19-12 |
+| **KianV** | KianV SV32 (MMU) RV32IMA Zicntr Zicsr Zifencei SSTC Linux/XV6 ASIC/FPGA SoC | [Github](https://github.com/splinedrive/kianRiscV) |2025-30-09 |
 | **Kronos** | Kronos is a 3-stage in-order RISC-V RV32I_Zicsr_Zifencei core geared towards FPGA implementations. | [Github](https://github.com/SonalPinto/kronos) | 2024-18-10 |
 | **Leaf** | Leaf is a small RV32I SoC for portable applications done in VHDL and implemented both in FPGA and ASIC. | [Github](https://github.com/britovski/leaf) | 2024-23-10 |
 | **Maestro** | A 5 stage-pipeline RV32I implementation in VHDL. | [Github](https://github.com/Artoriuz/maestro) | 2024-18-10 |
