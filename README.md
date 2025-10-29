@@ -25,7 +25,6 @@ A community-driven compilation of RISC-V resources and learning material. The li
       - [🔵 Intermediate-Level Resources](#-intermediate-level-resources)
     - [Software and Tools](#software-and-tools)
     - [Open RISC-V Implementations](#open-risc-v-implementations)
-  - [| **SGDH-RVSoC** | An incredibly small 32-bit RISC-V rv32acim CPU capable of running Linux on FPGA, and software simulations | Github | 2025-08-10 |](#-sgdh-rvsoc--an-incredibly-small-32-bit-risc-v-rv32acim-cpu-capable-of-running-linux-on-fpga-and-software-simulations--github--2025-08-10-)
     - [Available RISC-V Boards, Development Kits, Tablets, and Laptops](#available-risc-v-boards-development-kits-tablets-and-laptops)
       - [🟢 32-bit Hardware](#-32-bit-hardware)
       - [🔵 64-bit Hardware](#-64-bit-hardware)
