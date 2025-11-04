@@ -204,8 +204,10 @@ Popular hardware based on RV64 based processors
 | [**Banana Pi F3**](https://docs.banana-pi.org/en/BPI-F3/BananaPi_BPI-F3) | Banana Pi | SpacemiT K1 | Octa-Core X60 | 2024-01-11 |
 | [**BeagleV-Ahead**](https://www.beagleboard.org/boards/beaglev-ahead) |  BeagleBoard.org | TH1520 | T-HEAD Quad-Core Xuantie C910 | 2025-26-07 |
 | [**BeagleV-Fire**](https://www.beagleboard.org/boards/beaglev-fire) | BeagleBoard.org | Microchip Polarfire MPFS025T | 4x 64-bit RV64GC + 1x 64-bit RV64IMAC | 2025-26-07 |
-| [**DC Roma AI PC**](https://deepcomputing.io/product/dc-roma-risc-v-ai-pc/) | DeepComputing | ESWIN EIC7700X | Octa-Core P550| 2025-25-07 |
-| [**DC Roma II**](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/) | DeepComputing | SpacemiT K1 | Octa-Core X60™ | 2024-31-10 |
+| [**DC Roma Laptop I**](https://deepcomputing.io/product/dc-roma-risc-v-laptop/) | DeepComputing | StarFive JH7110 | Quad-Core | 2025-03-11 |
+| [**DC Roma Laptop II**](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/) | DeepComputing | SpacemiT K1 | Octa-Core X60™ | 2024-31-10 |
+| [**DC Roma Mainboard I**](https://deepcomputing.io/product/dc-roma-risc-v-mainboard/) | DeepComputing | StarFive JH7110 | Quad-Core | 2025-03-11 |
+| [**DC Roma Mainboard II (AI PC)**](https://deepcomputing.io/product/dc-roma-risc-v-ai-pc/) | DeepComputing | ESWIN EIC7702X | SiFive Octa-Core P550 | 2025-25-07 |
 | [**HiFive Premier P550**](https://www.sifive.com/boards/hifive-premier-p550) | SiFive | ESWIN EIC7700X | SiFive Quad-Core P550 | 2024-31-10 |
 | [**HiFive Unmatched**](https://www.sifive.com/boards/hifive-unmatched) | SiFive | SiFive U74‑MC | 64-bit S7 | 2024-31-10 |
 | [**Kendryte K230**](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) | Canaan Technology | K230 | Dual-Core T-HEAD C908 | 2024-01-11 |
