@@ -187,7 +187,7 @@ Popular hardware based on RV32 based processors
 | [**ESP32P4 EV Board**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32P4 | Dual-Core 32-bit | 360 MHz | 2025-25-07 |
 | [**Longan Nano**](https://wiki.sipeed.com/hardware/en/longan/Nano/Longan_nano.html) | Sipeed | GD32VF103CBT6 | Single-Core 32-bit | 108 MHz | 2025-25-07 |
 | [**M0sense**](https://wiki.sipeed.com/hardware/en/maixzero/sense/maix_zero_sense.html) | Sipeed | BL702 | Single-Core 32-bit | 144 MHz | 2025-24-08 |
-| [**Raspberry Pi Pico 2**](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) | Raspberry Pi | RP2350 | Dual-Core Hazard3 | 150 MHz | 2024-19-12 |
+| [**Raspberry Pi Pico 2**](https://www.raspberrypi.com/products/raspberry-pi-pico-2) | Raspberry Pi | RP2350 | Dual-Core Hazard3 | 150 MHz | 2024-19-12 |
 
 Following are no longer available:
 | Board or Dev Kit | Company | SoC | RISC-V Core | Frequency | Date Added |
