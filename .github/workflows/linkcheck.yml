@@ -32,9 +32,12 @@ jobs:
       - name: Run lychee (link checker)
         id: lychee
         uses: lycheeverse/lychee-action@v2
+        env:
+          LYCHEE_ROOT: ${{ github.workspace }}
         with:
           # CLI args only; DO NOT put format/output here
           args: >-
+            --root-dir "${LYCHEE_ROOT}"
             --base .
             --cache --max-cache-age 1w
             --no-progress
