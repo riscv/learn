@@ -1,0 +1,28 @@
+# .linkspector.yml
+dirs:
+  - .
+useGitIgnore: true
+
+# Ignore local anchors and relative file paths
+ignorePatterns:
+  - pattern: '^#.*$'              # header-only links like [text](#anchor)
+  - pattern: '^(\\.|\\.\\.)/.*'   # ./relative or ../relative
+  - pattern: '^/(?!/).*'          # root-relative (/path) but not protocol-relative (//host)
+
+# Fix 403/anti-bot sites (e.g., raspberrypi.com) by sending a UA
+httpHeaders:
+  - url:
+      - https://www.raspberrypi.com/
+    headers:
+      User-Agent: Mozilla/5.0
+
+# Optional: treat common redirects as alive
+aliveStatusCodes:
+  - 200
+  - 206
+  - 301
+  - 302
+  - 308
+
+# Optional: follow redirects explicitly (true by default)
+followRedirects: true
