@@ -38,17 +38,7 @@ A community-driven, continuously updated compilation of RISC-V learning resource
 <a id="making-contributions"></a>
 ## ➕ Making Contributions
 
-We love contributions! Thank you for your interest in contributing to our RISC-V tutorial compilation.
-
-Contributing is easy! Follow these steps:
-
-✔ Browse the beginner and intermediate-level resources [here](#resources) to check if your resource is already included.
-✔ If not, go to [Issues](https://github.com/riscv/learn/issues), click `New issue`, and select the **Add Resource** template.
-✔ Enter the resource details and submit the issue.
-✔ For other contributions, use the **General Request** issue template [here](https://github.com/riscv/learn/issues/new/choose).
-✔ Engage with open issues if you have feedback.
-
-We may contact you for more details before adding contributions.
+We love contributions! Check out [contributing.md](contributing.md) for more info. Thank you for your interest in contributing to our RISC-V tutorial compilation.
 
 <!--
 ---
