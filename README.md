@@ -109,6 +109,7 @@ Advanced materials for learners familiar with digital logic and basic architectu
 | **Teaching experiences with RVfpga** | ARTECS Group, Complutense University of Madrid | How RVfpga and the Ripes simulator were used in two UCM courses. | [GitHub](https://github.com/artecs-group/RVfpga-sim-addons) | 2024-10-18 |
 | **Tutorial: RISC-V Vector Extension Demystified** | Thang Tran | In-depth introduction to the RISC-V vector extension. | [YouTube](https://youtu.be/oTaOd8qr53U) | 2024-10-01 |
 | **Tutorial: basic_RV32s** | [T410N](https://github.com/T410N) | A systematic microarchitectural roadmap for learning RISC-V processor design from scratch. | [basic_RV32s](https://github.com/RISC-KC/basic_rv32s) | 2024-07-25 |
+| **RISC-V Vector Primer** | Tran, Thang Minh and Miller, Paul and McLeod, Jonah | A structured, open technical primer explaining the RISC‑V Vector Extension, with examples, diagrams, and chapter‑based documentation. | [Github](https://github.com/simplex-micro/riscv-vector-primer) | 2026-02-07 |
 
 ---
 
