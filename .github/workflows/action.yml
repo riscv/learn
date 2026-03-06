@@ -5,7 +5,7 @@ jobs:
     name: runner / linkspector
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Run Linkspector
         uses: umbrelladocs/action-linkspector@v1
         with:
