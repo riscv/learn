@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           persist-credentials: true
           fetch-depth: 0
@@ -82,7 +82,7 @@ jobs:
       # Optional: upload the report if it exists (no noisy warnings)
       - name: Upload lychee report (optional)
         if: ${{ hashFiles('lychee/out.json') != '' }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: lychee-report
           path: lychee/out.json
