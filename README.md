@@ -148,6 +148,7 @@ Explore open RISC-V implementations for hands-on learning.
 | **CV32E40P** | In-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY (PULP-Platform). | [GitHub](https://github.com/openhwgroup/cv32e40p) | 2024-10-18 |
 | **CVA6** | CORE-V CVA6, an application-class 6-stage RISC-V CPU capable of booting Linux. | [GitHub](https://github.com/openhwgroup/cva6) | 2024-10-18 |
 | **DarkRISCV** | Small RV32-E/I soft-core CPU optimized for FPGAs. | [GitHub](https://github.com/darklife/darkriscv) | 2024-10-18 |
+| **Didactic-RISC-V** | Didactic RV32I Zmmul Zicsr implementation with 3-stage pipeline, in Logisim Evolution and SystemVerilog. | [GitHub](https://github.com/Diogo-Valadares/Didactic-RISC-V/) | 2026-03-24 |
 | **Grande Risco-5** | RV32I multi-cycle processor with a 5-stage pipeline for education. | [GitHub](https://github.com/JN513/Grande-Risco-5) | 2024-11-06 |
 | **Hazard3** | 3-stage RV32IMACZb* processor with debug. | [GitHub](https://github.com/Wren6991/Hazard3) | 2024-12-19 |
 | **KianV** | SV32 (MMU) RV32IMA Zicntr Zicsr Zifencei SSTC Linux/XV6 ASIC/FPGA SoC. | [GitHub](https://github.com/splinedrive/kianRiscV) | 2025-09-30 |
@@ -164,11 +165,13 @@ Explore open RISC-V implementations for hands-on learning.
 | **Riscado-V** | Simple RISC-V (RV32I) implementation in Verilog. | [GitHub](https://github.com/zxmarcos/riscado-v) | 2024-10-18 |
 | **Risco-5** | Multi-cycle RISC-V processor with RV32I/E[M]. | [GitHub](https://github.com/JN513/Risco-5) | 2024-10-18 |
 | **RISC-V Steel** | RV32I + Zicsr + Machine mode. | [GitHub](https://github.com/riscv-steel/riscv-steel) | 2024-10-18 |
+| **RISCV-CPU** | 6-stage pipelined RV32IM+Zicsr+Zifencei processor in SystemVerilog on Xilinx Zynq-7020 FPGA, with branch prediction (BHT/BTB/RAS), hardware multiplier/divider, UART subsystem, and full hazard handling. 263.7 CoreMark / 91.0 DMIPS at 100 MHz. | [GitHub](https://github.com/gws8820/RISCV-CPU) | 2026-03-24 |
 | **RPU** | Basic RISC-V CPU in VHDL. | [GitHub](https://github.com/Domipheus/RPU) | 2024-10-18 |
 | **RSD** | RISC-V out-of-order superscalar processor. | [GitHub](https://github.com/rsd-devel/rsd) | 2024-10-18 |
 | **SERV** | The SErial RISC-V CPU. | [GitHub](https://github.com/olofk/serv) | 2024-10-18 |
 | **SGDH-RVSoC** | Tiny 32-bit RISC-V rv32acim CPU capable of running Linux on FPGA and in simulation. | [GitHub](https://github.com/semisgdh/SGDH-RVSoC) | 2025-10-08 |
 | **TinyRiscv** | Very simple and easy-to-understand RISC-V core. | [GitHub](https://github.com/liangkangnan/tinyriscv) | 2024-10-18 |
+| **VestaRV** | RV32IMACZb* MCU SoC in VHDL for ASIC and FPGA. Includes HDL sources, User Guide, RISC-V ISA verification suite, and simulation instructions. Fabricated and silicon-verified as the 'Myshkin' ASIC (TSMC 65nm, Nov 2025). | [GitHub](https://github.com/maxxseminario/VestaRV) | 2026-03-24 |
 | **VexRiscv** | FPGA-friendly 32-bit RISC-V CPU (SpinalHDL). | [GitHub](https://github.com/SpinalHDL/VexRiscv) | 2024-10-18 |
 | **Riskow** | Toy RV32-E from scratch during livestreams; runs on low-cost FPGAs. | [GitHub](https://github.com/racerxdl/riskow) | 2024-10-18 |
 
@@ -258,3 +261,4 @@ Popular hardware based on RV64 processors.
 | **Design of the RISC-V Instruction Set Architecture** | Andrew Waterman | PhD dissertation on the structure of the RISC-V ISA. | [PDF](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-1.pdf) |
 | **Is RISC-V the Future?** | Roddy Urquhart | Examination of RISC-V’s future potential. | [Article](https://semiengineering.com/is-risc-v-the-future) |
 | **Past, Present and Future of RISC-V** | Krste Asanović | Overview of RISC-V’s evolution. | [YouTube](https://www.youtube.com/watch?v=RrVRMFjYti0) |
+| **x264 SAD Optimization with RISC-V Vector** | Fernando Mendoza V., Thomas Kolman | Optimizing the Sum of Absolute Differences (SAD) function in x264 using the RISC-V Vector 1.0 extension for the RVA23 profile, achieving up to 4x speedup over scalar C code. | [PDF](articles/x264-SAD-Optimization-with-RISC-V-Vector.pdf) |
