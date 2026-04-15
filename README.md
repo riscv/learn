@@ -171,7 +171,7 @@ Explore open RISC-V implementations for hands-on learning.
 | **SERV** | The SErial RISC-V CPU. | [GitHub](https://github.com/olofk/serv) | 2024-10-18 |
 | **SGDH-RVSoC** | Tiny 32-bit RISC-V rv32acim CPU capable of running Linux on FPGA and in simulation. | [GitHub](https://github.com/semisgdh/SGDH-RVSoC) | 2025-10-08 |
 | **TinyRiscv** | Very simple and easy-to-understand RISC-V core. | [GitHub](https://github.com/liangkangnan/tinyriscv) | 2024-10-18 |
-| **VestaRV** | RV32IMACZb* MCU SoC in VHDL for ASIC and FPGA. Includes HDL sources, User Guide, RISC-V ISA verification suite, and simulation instructions. Fabricated and silicon-verified as the 'Myshkin' ASIC (TSMC 65nm, Nov 2025). | [GitHub](https://github.com/maxxseminario/VestaRV) | 2026-03-24 |
+| **VestaRV** | RV32IMACZb* synthesizable mixed-signal MCU SoC for ASIC and FPGA. Includes HDL sources, User Guide, RISC-V ISA verification suite, and simulation instructions. Fabricated and silicon-verified as the 'Myshkin' ASIC (TSMC 65nm, Nov 2025). | [GitHub](https://github.com/maxxseminario/VestaRV) | 2026-03-24 |
 | **VexRiscv** | FPGA-friendly 32-bit RISC-V CPU (SpinalHDL). | [GitHub](https://github.com/SpinalHDL/VexRiscv) | 2024-10-18 |
 | **Riskow** | Toy RV32-E from scratch during livestreams; runs on low-cost FPGAs. | [GitHub](https://github.com/racerxdl/riskow) | 2024-10-18 |
 
