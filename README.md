@@ -183,11 +183,12 @@ Explore open RISC-V implementations for hands-on learning.
 <a id="32-bit-hardware"></a>
 #### 🟢 32-bit Hardware
 
-Popular hardware based on RV32 processors.
+Popular hardware with RV32 based processors.
 
 <!-- Keep this sorted alphabetically =) -->
 | Board or Dev Kit | Company | SoC | RISC-V Core | Frequency | Date Added |
 |---|---|---|---|---|---|
+| [**Dabao Evaluation Board**](https://www.crowdsupply.com/baochip/dabao) | Baochip | Baochip-1x | Single-core VexRiscv RV32-IMAC | 350 MHz | 2026-04-13 |
 | [**CH32V003 Devkit**](https://www.aliexpress.com/item/1005004895791296.html) | WCH | CH32V003 | Single-core QingKe V2A | 48 MHz | 2025-07-25 |
 | [**ESP32C2 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C2 | Single-core 32-bit | 120 MHz | 2025-07-25 |
 | [**ESP32C3 Devkit**](https://www.espressif.com/en/products/devkits) | Espressif | ESP32C3 | Single-core 32-bit | 160 MHz | 2025-07-25 |
@@ -209,7 +210,7 @@ Following are no longer available:
 <a id="64-bit-hardware"></a>
 #### 🔵 64-bit Hardware
 
-Popular hardware based on RV64 processors.
+Popular hardware with RV64 based processors.
 
 <!-- Keep this sorted alphabetically =) -->
 | Board or Dev Kit | Company | SoC | RISC-V Core | Date Added |
