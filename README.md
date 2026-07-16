@@ -2,6 +2,10 @@
 
 [![Check Markdown links](https://github.com/riscv/learn/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/riscv/learn/actions/workflows/action.yml)
 
+<!-- last_verified_all:start -->
+> ✅ Links last verified: **2026-07-16** — OK: 153, Redirects: 0, Broken: 0
+<!-- last_verified_all:end -->
+
 A community-driven, continuously updated compilation of RISC-V learning resources. Content is organized by topic and experience level to help you discover courses, software, documentation, and articles efficiently.
 
 **RISC-V** is an open standard Instruction Set Architecture (ISA) based on established Reduced Instruction Set Computer (RISC) principles.
@@ -224,7 +228,6 @@ Popular hardware with RV64 based processors.
 | [**DC Roma Mainboard II (AI PC)**](https://deepcomputing.io/product/dc-roma-risc-v-ai-pc/) | DeepComputing | ESWIN EIC7702X | SiFive octa-core P550 | 2025-07-25 |
 | [**HiFive Premier P550**](https://www.sifive.com/boards/hifive-premier-p550) | SiFive | ESWIN EIC7700X | SiFive quad-core P550 | 2024-10-31 |
 | [**HiFive Unmatched**](https://www.sifive.com/boards/hifive-unmatched) | SiFive | SiFive U74-MC | 64-bit S7 | 2024-10-31 |
-| [**Kendryte K230**](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) | Canaan Technology | K230 | Dual-core T-HEAD C908 | 2024-11-01 |
 | [**LicheeBook 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lbook4a/lbook4a.html) | Sipeed | TH1520 | Quad-core T-HEAD C910 | 2024-10-31 |
 | [**LicheePi 3A**](https://wiki.sipeed.com/hardware/en/lichee/K1/lpi3a/1_intro.html) | Sipeed | SpacemiT K1 | Octa-core X60 | 2024-10-31 |
 | [**LicheePi 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lpi4a/1_intro.html) | Sipeed | TH1520 | Quad-core T-HEAD C910 | 2024-10-31 |
@@ -249,7 +252,6 @@ Popular hardware with RV64 based processors.
 | [**SpacemiT MUSE Pi**](https://www.spacemit.com/spacemit-muse-pi/) | SpacemiT | SpacemiT M1 | Octa-core X60 | 2024-11-01 |
 | [**SpacemiT MUSE Pi Pro**](https://www.spacemit.com/spacemit-muse-pi-pro/) | SpacemiT | SpacemiT M1 | Octa-core X60 | 2025-09-02 |
 | [**Star 64**](https://pine64.com/product/star64-model-a-8gb-single-board-computer/) | Pine64 | JH7110 | Quad-core SiFive U74 | 2024-10-31 |
-| [**VisionFive 2**](https://www.starfivetech.com/en/site/boards) | StarFive Technology | JH7110 | Quad-core SiFive U74 | 2024-10-31 |
 
 ---
 

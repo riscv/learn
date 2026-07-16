@@ -1,0 +1,10 @@
+# Allow-list for the link checker (regex, one per line).
+# These URLs are valid in a browser but fail automated checks, so we skip them
+# to avoid false-positive "broken link" reports. Keep this list small and
+# documented; only add links that are confirmed reachable manually.
+
+# raspberrypi.com returns HTTP 403 to non-browser clients (anti-bot).
+^https://www\.raspberrypi\.com/
+
+# star-history badge API is a dynamic image endpoint that intermittently 503s.
+^https://api\.star-history\.com/

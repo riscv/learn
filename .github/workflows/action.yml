@@ -1,13 +1,44 @@
 name: Check Markdown Links
-on: [pull_request, push]
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
 jobs:
   check-links:
-    name: runner / linkspector
-    runs-on: ubuntu-22.04
+    name: runner / lychee
+    runs-on: ubuntu-latest
+    env:
+      LYCHEE_ROOT: ${{ github.workspace }}
     steps:
       - uses: actions/checkout@v6
-      - name: Run Linkspector
-        uses: umbrelladocs/action-linkspector@v1.5.4
+
+      # Cache to reduce rate limits/timeouts across runs
+      - name: Restore lychee cache
+        uses: actions/cache@v4
         with:
-          reporter: github-check
-          config_file: .linkspector.yml
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee (link checker)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # --root-dir must be an absolute path (lychee rejects "--base .").
+          # Mail links are excluded by default in lychee >= 0.18.
+          args: >-
+            --root-dir "${LYCHEE_ROOT}"
+            --cache --max-cache-age 1w
+            --no-progress
+            --max-concurrency 8
+            --retry-wait-time 2
+            --timeout 20
+            --accept 200,206,301,302,308
+            .
+          # Report to the job summary; do not block PRs on pre-existing dead
+          # links (the nightly sweep in linkcheck.yml tracks freshness).
+          fail: false
+          token: ${{ secrets.GITHUB_TOKEN }}
