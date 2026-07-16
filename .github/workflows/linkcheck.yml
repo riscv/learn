@@ -63,7 +63,7 @@ jobs:
           key: ${{ steps.lychee.outputs.cache-primary-key || format('cache-lychee-{0}', github.sha) }}
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.x"
 
