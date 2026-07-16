@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Run Linkspector
-        uses: umbrelladocs/action-linkspector@v1
+        uses: umbrelladocs/action-linkspector@v1.5.4
         with:
           reporter: github-check
           config_file: .linkspector.yml
