@@ -17,6 +17,19 @@ def load_lychee_counts(path: pathlib.Path):
     except Exception:
         return None
 
+    # Modern lychee (--format json) emits scalar aggregates, not a links array:
+    #   {"total":N,"successful":N,"errors":N,"redirects":N,"excludes":N,...}
+    # Prefer those when present; fall back to the legacy array shape below.
+    if isinstance(data, dict) and "total" in data and "successful" in data:
+        total = int(data.get("total", 0))
+        ok = int(data.get("successful", 0))
+        redirected = int(data.get("redirects", 0))
+        excludes = int(data.get("excludes", 0))
+        # Everything that isn't a success, redirect, or exclude is a failure
+        # (errors + timeouts + unknown + unsupported).
+        broken = max(total - ok - redirected - excludes, int(data.get("errors", 0)))
+        return total - excludes, ok, redirected, broken
+
     links = []
     if isinstance(data, dict) and "links" in data:
         links = data["links"]

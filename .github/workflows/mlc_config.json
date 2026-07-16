@@ -1,9 +1,0 @@
-{
-    "ignorePatterns": [
-        {
-            "pattern": "(.*\\.)?github.com*"
-        }
-    ],
-    "retryOn429": true,
-    "aliveStatusCodes": [200, 206]
-}
