@@ -23,7 +23,7 @@ jobs:
 
       # Optional but recommended: cache to reduce rate limits/timeouts
       - name: Restore lychee cache
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -57,7 +57,7 @@ jobs:
 
       - name: Save lychee cache
         if: always()
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v6
         with:
           path: .lycheecache
           key: ${{ steps.lychee.outputs.cache-primary-key || format('cache-lychee-{0}', github.sha) }}
