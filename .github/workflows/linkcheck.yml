@@ -35,21 +35,23 @@ jobs:
         env:
           LYCHEE_ROOT: ${{ github.workspace }}
         with:
-          # CLI args only; DO NOT put format/output here
+          # CLI args only; DO NOT put format/output here.
+          # --root-dir must be absolute (lychee rejects "--base ."); mail links
+          # are excluded by default in lychee >= 0.18.
           args: >-
             --root-dir "${LYCHEE_ROOT}"
-            --base .
             --cache --max-cache-age 1w
             --no-progress
             --max-concurrency 8
             --retry-wait-time 2
             --timeout 20
             --accept 200,206,301,302,308
-            --exclude-mail
             .
           # Action inputs for report emission
           format: json
           output: lychee/out.json
+          jobSummary: false               # json output; markdown-only summary N/A
+          failIfEmpty: false
           fail: false                     # don't fail the job on broken links
           token: ${{ secrets.GITHUB_TOKEN }}
 

@@ -11,6 +11,8 @@ jobs:
   check-links:
     name: runner / lychee
     runs-on: ubuntu-latest
+    env:
+      LYCHEE_ROOT: ${{ github.workspace }}
     steps:
       - uses: actions/checkout@v6
 
@@ -25,16 +27,16 @@ jobs:
       - name: Run lychee (link checker)
         uses: lycheeverse/lychee-action@v2
         with:
-          # CLI args only; report emission is configured via the inputs below
+          # --root-dir must be an absolute path (lychee rejects "--base .").
+          # Mail links are excluded by default in lychee >= 0.18.
           args: >-
-            --base .
+            --root-dir "${LYCHEE_ROOT}"
             --cache --max-cache-age 1w
             --no-progress
             --max-concurrency 8
             --retry-wait-time 2
             --timeout 20
             --accept 200,206,301,302,308
-            --exclude-mail
             .
           # Report to the job summary; do not block PRs on pre-existing dead
           # links (the nightly sweep in linkcheck.yml tracks freshness).
