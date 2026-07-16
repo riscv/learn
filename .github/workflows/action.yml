@@ -14,7 +14,7 @@ jobs:
     env:
       LYCHEE_ROOT: ${{ github.workspace }}
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       # Cache to reduce rate limits/timeouts across runs
       - name: Restore lychee cache
