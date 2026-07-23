@@ -261,6 +261,7 @@ Popular hardware with RV64 based processors.
 <!-- Keep this sorted alphabetically =) -->
 | Resource | Author(s) | Description | Access |
 |---|---|---|---|
+| **An Educational RISC-V-Based 16-Bit Processor** | Jecel Mattos de Assumpção, Oswaldo Hideo Ando, Hugo Puertas de Araújo, Mario Gazziro | Peer-reviewed paper (MDPI Chips, 2024) describing a simplified 16-bit processor based on the RISC-V ISA, developed as a teaching platform for computer architecture and digital design. | [Article](https://www.mdpi.com/2674-0729/3/4/20) · [DOI](https://doi.org/10.3390/chips3040020) |
 | **Design of the RISC-V Instruction Set Architecture** | Andrew Waterman | PhD dissertation on the structure of the RISC-V ISA. | [PDF](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-1.pdf) |
 | **Is RISC-V the Future?** | Roddy Urquhart | Examination of RISC-V’s future potential. | [Article](https://semiengineering.com/is-risc-v-the-future) |
 | **Past, Present and Future of RISC-V** | Krste Asanović | Overview of RISC-V’s evolution. | [YouTube](https://www.youtube.com/watch?v=RrVRMFjYti0) |

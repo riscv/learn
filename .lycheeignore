@@ -8,3 +8,6 @@
 
 # star-history badge API is a dynamic image endpoint that intermittently 503s.
 ^https://api\.star-history\.com/
+
+# mdpi.com (Cloudflare) returns HTTP 403 to non-browser clients (anti-bot).
+^https://www\.mdpi\.com/
