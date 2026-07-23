@@ -261,8 +261,20 @@ Popular hardware with RV64 based processors.
 <!-- Keep this sorted alphabetically =) -->
 | Resource | Author(s) | Description | Access |
 |---|---|---|---|
+| **32-Bit RISC-V CPU Core on Logisim** | Siddesh D. Patil et al. | Beginner-friendly walkthrough of building a 32-bit RISC-V CPU core in the Logisim digital-logic simulator. | [arXiv](https://arxiv.org/abs/2312.01455) |
+| **A RISC-V SystemC-TLM Simulator** | Màrius Montón | Introduction to modeling a RISC-V system using SystemC and Transaction-Level Modeling. | [arXiv](https://arxiv.org/abs/2010.10119) |
+| **A Survey on RISC-V Security: Hardware and Architecture** | Tao Lu | Survey of security research across RISC-V hardware and architecture. | [arXiv](https://arxiv.org/abs/2107.04175) |
 | **An Educational RISC-V-Based 16-Bit Processor** | Jecel Mattos de Assumpção, Oswaldo Hideo Ando, Hugo Puertas de Araújo, Mario Gazziro | Peer-reviewed paper (MDPI Chips, 2024) describing a simplified 16-bit processor based on the RISC-V ISA, developed as a teaching platform for computer architecture and digital design. | [Article](https://www.mdpi.com/2674-0729/3/4/20) · [DOI](https://doi.org/10.3390/chips3040020) |
+| **Croc: An End-to-End Open-Source Extensible RISC-V MCU Platform to Democratize Silicon** | Philippe Sauter et al. | A complete open-source RISC-V microcontroller platform and design flow, from RTL toward tapeout. | [arXiv](https://arxiv.org/abs/2502.05090) |
 | **Design of the RISC-V Instruction Set Architecture** | Andrew Waterman | PhD dissertation on the structure of the RISC-V ISA. | [PDF](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-1.pdf) |
+| **Enabling Heterogeneous, Multicore SoC Research with RISC-V and ESP** | Joseph Zuckerman et al. | Hands-on platform for building heterogeneous multicore RISC-V systems-on-chip with ESP. | [arXiv](https://arxiv.org/abs/2206.01901) |
+| **FREESS: A Web-Based Educational Simulator for a RISC-V-Inspired Superscalar Processor** | Roberto Giorgi et al. | Browser-based simulator that teaches superscalar execution on a RISC-V-inspired processor. | [arXiv](https://arxiv.org/abs/2605.30377) |
 | **Is RISC-V the Future?** | Roddy Urquhart | Examination of RISC-V’s future potential. | [Article](https://semiengineering.com/is-risc-v-the-future) |
 | **Past, Present and Future of RISC-V** | Krste Asanović | Overview of RISC-V’s evolution. | [YouTube](https://www.youtube.com/watch?v=RrVRMFjYti0) |
+| **PERI: A Posit Enabled RISC-V Core** | Sugandha Tiwari et al. | Extends a RISC-V core with posit arithmetic; a good advanced ISA-extension study. | [arXiv](https://arxiv.org/abs/1908.01466) |
+| **Return-Oriented Programming in RISC-V** | Garrett Gu et al. | Security case study demonstrating return-oriented programming on RISC-V. | [arXiv](https://arxiv.org/abs/2007.14995) |
+| **RISC-V for HPC: Where We Are and Where We Need to Go** | Nick Brown | Accessible overview of the state of RISC-V for high-performance computing. | [arXiv](https://arxiv.org/abs/2406.12398) |
+| **WebRISC-V: A 64-bit RISC-V Pipeline Simulator for Computer Architecture Classes** | Roberto Giorgi et al. | Browser-based 64-bit RISC-V pipeline simulator designed for computer-architecture courses. | [arXiv](https://arxiv.org/abs/2504.03722) |
 | **x264 SAD Optimization with RISC-V Vector** | Fernando Mendoza V., Thomas Kolman | Optimizing the Sum of Absolute Differences (SAD) function in x264 using the RISC-V Vector 1.0 extension for the RVA23 profile, achieving up to 4x speedup over scalar C code. | [PDF](articles/x264-SAD-Optimization-with-RISC-V-Vector.pdf) |
+
+> 🔎 Explore more RISC-V research on [arXiv](https://arxiv.org/search/?query=RISC-V&searchtype=all).
