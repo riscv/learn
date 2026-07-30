@@ -178,6 +178,7 @@ Explore open RISC-V implementations for hands-on learning.
 | **VestaRV** | RV32IMACZb* synthesizable mixed-signal MCU SoC for ASIC and FPGA. Includes HDL sources, User Guide, RISC-V ISA verification suite, and simulation instructions. Fabricated and silicon-verified as the 'Myshkin' ASIC (TSMC 65nm, Nov 2025). | [GitHub](https://github.com/maxxseminario/VestaRV) | 2026-03-24 |
 | **VexRiscv** | FPGA-friendly 32-bit RISC-V CPU (SpinalHDL). | [GitHub](https://github.com/SpinalHDL/VexRiscv) | 2024-10-18 |
 | **Riskow** | Toy RV32-E from scratch during livestreams; runs on low-cost FPGAs. | [GitHub](https://github.com/racerxdl/riskow) | 2024-10-18 |
+| **SARV** | synthesizable in-order RV32 Verilog core | [GitHub](https://github.com/Sarst04/SARV) | 2026-07-30 |
 
 ---
 
