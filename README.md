@@ -12,11 +12,6 @@ A community-driven, continuously updated compilation of RISC-V learning resource
 
 👋 **Want to learn about RISC-V?** Check out the [Beginner-Level](#beginner-level-resources) or [Intermediate-Level](#intermediate-level-resources) learning resources.
 
-<a id="star-history"></a>
-## Star History
-
-[![Star History for riscv/learn](https://api.star-history.com/svg?repos=riscv/learn&type=Date)](https://www.star-history.com/#riscv/learn&Date)
-
 ---
 
 <a id="table-of-contents"></a>
