@@ -132,6 +132,7 @@ Tools to enhance understanding or visualize the RISC-V ISA.
 | **Risco-5S** | Julio Nunes Avelar | RISC-V simulator with RV32IM, built during a few days off. | [GitHub](https://github.com/JN513/Risco-5S) | 2023-11-04 |
 | **RVV Intrinsics Viewer** | dzaima | Documentation for RISC-V vector extension intrinsics. | [Website](https://dzaima.github.io/intrinsics-viewer/) | 2023-12-20 |
 | **WebRISC-V** | Roberto Giorgi, Gianfranco Mariotti | Web-based graphical simulation with pipeline visualization for RV32IM/RV64IM. | [GitHub](https://github.com/Mariotti94/WebRISC-V/) | 2025-08-14 |
+| **ASM Editor** | specy | ASM Editor is a Webapp IDE to write, run, debug and learn RISC-V (64 and 32) assembly. | [Website](https://asm-editor.specy.app/) | 2026-09-14 |
 
 ---
 
