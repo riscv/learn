@@ -149,6 +149,7 @@ Explore open RISC-V implementations for hands-on learning.
 | **CVA6** | CORE-V CVA6, an application-class 6-stage RISC-V CPU capable of booting Linux. | [GitHub](https://github.com/openhwgroup/cva6) | 2024-10-18 |
 | **DarkRISCV** | Small RV32-E/I soft-core CPU optimized for FPGAs. | [GitHub](https://github.com/darklife/darkriscv) | 2024-10-18 |
 | **Didactic-RISC-V** | Didactic RV32I Zmmul Zicsr implementation with 3-stage pipeline, in Logisim Evolution and SystemVerilog. | [GitHub](https://github.com/Diogo-Valadares/Didactic-RISC-V/) | 2026-03-24 |
+| **Entropic R32-P5** | 5-stage pipelined RV32I CPU in Verilog with dynamic branch prediction (64-entry BTB), verified with cocotb, taped out on SKY130 with OpenLane2 and synthesized for FPGA. | [GitHub](https://github.com/Entropify/Entropic_R32-P5_RISC-V) | 2026-10-11 |
 | **Grande Risco-5** | RV32I multi-cycle processor with a 5-stage pipeline for education. | [GitHub](https://github.com/JN513/Grande-Risco-5) | 2024-11-06 |
 | **Hazard3** | 3-stage RV32IMACZb* processor with debug. | [GitHub](https://github.com/Wren6991/Hazard3) | 2024-12-19 |
 | **KianV** | SV32 (MMU) RV32IMA Zicntr Zicsr Zifencei SSTC Linux/XV6 ASIC/FPGA SoC. | [GitHub](https://github.com/splinedrive/kianRiscV) | 2025-09-30 |
@@ -162,19 +163,19 @@ Explore open RISC-V implementations for hands-on learning.
 | **Pequeno** | Pipelined in-order RISC-V CPU core compliant with RV32I. | [GitHub](https://github.com/iammituraj/pequeno_riscv) | 2023-12-20 |
 | **PicoRV32** | Size-optimized RISC-V CPU. | [GitHub](https://github.com/YosysHQ/picorv32) | 2024-10-18 |
 | **ReonV** | Modified LEON3 (SPARC V8) to RISC-V ISA, VHDL. | [GitHub](https://github.com/lcbcFoo/ReonV) | 2024-10-18 |
+| **RISC-V Steel** | RV32I + Zicsr + Machine mode. | [GitHub](https://github.com/riscv-steel/riscv-steel) | 2024-10-18 |
 | **Riscado-V** | Simple RISC-V (RV32I) implementation in Verilog. | [GitHub](https://github.com/zxmarcos/riscado-v) | 2024-10-18 |
 | **Risco-5** | Multi-cycle RISC-V processor with RV32I/E[M]. | [GitHub](https://github.com/JN513/Risco-5) | 2024-10-18 |
-| **RISC-V Steel** | RV32I + Zicsr + Machine mode. | [GitHub](https://github.com/riscv-steel/riscv-steel) | 2024-10-18 |
 | **RISCV-CPU** | 6-stage pipelined RV32IM+Zicsr+Zifencei processor in SystemVerilog on Xilinx Zynq-7020 FPGA, with branch prediction (BHT/BTB/RAS), hardware multiplier/divider, UART subsystem, and full hazard handling. 263.7 CoreMark / 91.0 DMIPS at 100 MHz. | [GitHub](https://github.com/gws8820/RISCV-CPU) | 2026-03-24 |
+| **Riskow** | Toy RV32-E from scratch during livestreams; runs on low-cost FPGAs. | [GitHub](https://github.com/racerxdl/riskow) | 2024-10-18 |
 | **RPU** | Basic RISC-V CPU in VHDL. | [GitHub](https://github.com/Domipheus/RPU) | 2024-10-18 |
 | **RSD** | RISC-V out-of-order superscalar processor. | [GitHub](https://github.com/rsd-devel/rsd) | 2024-10-18 |
+| **SARV** | synthesizable in-order RV32 Verilog core | [GitHub](https://github.com/Sarst04/SARV) | 2026-07-30 |
 | **SERV** | The SErial RISC-V CPU. | [GitHub](https://github.com/olofk/serv) | 2024-10-18 |
 | **SGDH-RVSoC** | Tiny 32-bit RISC-V rv32acim CPU capable of running Linux on FPGA and in simulation. | [GitHub](https://github.com/semisgdh/SGDH-RVSoC) | 2025-10-08 |
 | **TinyRiscv** | Very simple and easy-to-understand RISC-V core. | [GitHub](https://github.com/liangkangnan/tinyriscv) | 2024-10-18 |
 | **VestaRV** | RV32IMACZb* synthesizable mixed-signal MCU SoC for ASIC and FPGA. Includes HDL sources, User Guide, RISC-V ISA verification suite, and simulation instructions. Fabricated and silicon-verified as the 'Myshkin' ASIC (TSMC 65nm, Nov 2025). | [GitHub](https://github.com/maxxseminario/VestaRV) | 2026-03-24 |
 | **VexRiscv** | FPGA-friendly 32-bit RISC-V CPU (SpinalHDL). | [GitHub](https://github.com/SpinalHDL/VexRiscv) | 2024-10-18 |
-| **Riskow** | Toy RV32-E from scratch during livestreams; runs on low-cost FPGAs. | [GitHub](https://github.com/racerxdl/riskow) | 2024-10-18 |
-| **SARV** | synthesizable in-order RV32 Verilog core | [GitHub](https://github.com/Sarst04/SARV) | 2026-07-30 |
 
 ---
 
