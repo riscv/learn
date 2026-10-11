@@ -11,3 +11,11 @@
 
 # mdpi.com (Cloudflare) returns HTTP 403 to non-browser clients (anti-bot).
 ^https://www\.mdpi\.com/
+
+# doi.org/10.3390/* resolves to mdpi.com, which blocks non-browser clients
+# (Akamai "Access Denied"); the article opens normally in a browser.
+^https://doi\.org/10\.3390/
+
+# cw.fel.cvut.cz (CTU Prague course wiki) answers non-browser clients with a
+# "Bot Check" page and HTTP 402; people confirm once and reach the course.
+^https://cw\.fel\.cvut\.cz/
