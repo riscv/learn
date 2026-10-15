@@ -221,6 +221,7 @@ Toolchains, operating systems and projects for building and running software on 
 | **Fedora RISC-V** | Fedora | Fedora on RISC-V: images, supported boards and how to help. | [Wiki](https://fedoraproject.org/wiki/Architectures/RISC-V) | 2026-10-11 |
 | **FreeRTOS on RISC-V** | FreeRTOS | Running the FreeRTOS kernel on RISC-V microcontrollers. | [Documentation](https://www.freertos.org/Using-FreeRTOS-on-RISC-V.html) | 2026-10-11 |
 | **LLVM RISC-V User Guide** | LLVM project | Which extensions and profiles Clang and LLVM support, and how to target them. | [Documentation](https://llvm.org/docs/RISCVUsage.html) | 2026-10-11 |
+| **Open Nexus OS** | Jenning Schäfer | Research OS in Rust for RV64: a capability-based microkernel with userspace drivers and services that boots to a graphical desktop on QEMU virt and on the Banana Pi BPI-F3. | [GitHub](https://github.com/open-nexus-OS/open-nexus-OS) · [Website](https://open-nexus-os.io/) | 2026-10-15 |
 | **RISC-V GNU Toolchain** | RISC-V collaboration | Build GCC, binutils, glibc/newlib and GDB cross-compilers for RISC-V. | [GitHub](https://github.com/riscv-collab/riscv-gnu-toolchain) | 2026-10-11 |
 | **RISC-V Software Ecosystem Dashboard** | RISC-V International | Where RISC-V support stands across key open-source projects. | [Dashboard](https://riscv.github.io/adm-riscv-software-ecosystem/) | 2026-10-11 |
 | **RISE Project** | RISE | Industry project accelerating RISC-V support in compilers, kernels, runtimes and distributions. | [Website](https://riseproject.dev/) | 2026-10-11 |
