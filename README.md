@@ -77,7 +77,7 @@ Pick the path that matches what you want to do. Each step links to a resource on
 <a id="making-contributions"></a>
 ## ➕ Making Contributions
 
-Anyone can contribute. Open a pull request that adds your resource to the right table, in alphabetical order and with today's date, or [open an issue](https://github.com/riscv/learn/issues/new/choose) and we'll add it. Commits need a DCO sign-off (`git commit -s`). See [contributing.md](contributing.md) for details.
+Anyone can contribute. Open a pull request that adds your resource to the right table, in alphabetical order and with today's date, or [open an issue](https://github.com/riscv/learn/issues/new/choose) and we'll add it. Commits need a DCO sign-off (`git commit -s`). See [contributing.md](contributing.md) for details. Links that no longer work are moved to [RETIRED_LINKS.md](RETIRED_LINKS.md).
 
 ---
 
@@ -355,7 +355,6 @@ Popular hardware with RV64 based processors.
 | [**LicheePi Console 4A**](https://wiki.sipeed.com/hardware/en/lichee/th1520/lcon4a/lcon4a.html) | Sipeed | TH1520 | Quad-core T-HEAD C910 | 2024-10-31 |
 | [**LicheeRV D1**](https://wiki.sipeed.com/hardware/en/lichee/RV/Dock.html) | Sipeed | AllWinner D1 | Single-core T-HEAD C906 | 2024-10-31 |
 | [**LicheeRV Nano**](https://wiki.sipeed.com/hardware/en/lichee/RV_Nano/1_intro.html) | Sipeed | SG2002 | Single-core T-HEAD C906 | 2024-10-31 |
-| [**MangoPi MQ-Pro**](https://mangopi.org/mqpro) | MangoPi | D1 | Single-core T-HEAD C906 | 2025-07-28 |
 | [**Milk-V Duo**](https://milkv.io/docs/duo/getting-started/duo) | Milk-V | CV1800B | T-HEAD C906 | 2024-10-31 |
 | [**Milk-V Duo256M**](https://milkv.io/docs/duo/getting-started/duo256m) | Milk-V | SG2002 | T-HEAD C906 | 2024-10-31 |
 | [**Milk-V Duo S**](https://milkv.io/docs/duo/getting-started/duos) | Milk-V | SG2000 | T-HEAD C906 | 2024-10-31 |
