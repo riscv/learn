@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   linkcheck:
@@ -74,16 +75,26 @@ jobs:
             --readme README.md \
             --marker "last_verified_all"
 
-      - name: Commit changes (only if README changed)
-        if: always()
-        uses: stefanzweifel/git-auto-commit-action@v7
+      # main is protected by org rules (DCO check + verified signatures), so
+      # the stamp goes through a PR: signed-off, API-signed commit on a fixed
+      # branch, reusing the same PR every night.
+      - name: Open or update stamp PR (only if README changed)
+        uses: peter-evans/create-pull-request@v8
         with:
-          commit_message: "docs: nightly link check stamp"
-          file_pattern: README.md
+          add-paths: README.md
+          commit-message: "docs: nightly link check stamp"
+          signoff: true
+          sign-commits: true
+          branch: chore/linkcheck-stamp
+          delete-branch: true
+          title: "docs: nightly link check stamp"
+          body: |
+            Automated README stamp from the nightly link check.
+            The lychee report is attached to the workflow run as `lychee-report`.
 
       # Optional: upload the report if it exists (no noisy warnings)
       - name: Upload lychee report (optional)
-        if: ${{ hashFiles('lychee/out.json') != '' }}
+        if: ${{ always() && hashFiles('lychee/out.json') != '' }}
         uses: actions/upload-artifact@v7
         with:
           name: lychee-report
