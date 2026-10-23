@@ -37,6 +37,7 @@ jobs:
             --retry-wait-time 2
             --timeout 20
             --accept 200,206,301,302,308
+            --exclude-path RETIRED_LINKS.md
             .
           # Report to the job summary; do not block PRs on pre-existing dead
           # links (the nightly sweep in linkcheck.yml tracks freshness).
