@@ -201,6 +201,7 @@ Tools to enhance understanding or visualize the RISC-V ISA.
 | **RISC-V ALE** | Antonio Guimarães | RISC-V Assembly Learning Environment. | [Website](https://riscv-programming.org/ale/) | 2024-10-18 |
 | **RISC-V Instruction Encoder/Decoder** | LupLab | Online tool for encoding/decoding RISC-V instructions. | [Website](https://luplab.gitlab.io/rvcodecjs/) | 2023-12-20 |
 | **RVV Intrinsics Viewer** | dzaima | Documentation for RISC-V vector extension intrinsics. | [Website](https://dzaima.github.io/intrinsics-viewer/) | 2023-12-20 |
+| **Sliderule RV32GC Cheatsheet** | Simone Shawn Cazzaniga, Jayaraj J, Siyu Chen | Web-based RV32GC ISA interactive visualization, with encoding and decoding utilities. | [GitHub](https://github.com/magiwanders/riscv_sliderules_cheatsheets) | 2026-11-03 |
 | **Spike** | RISC-V International | The reference RISC-V ISA simulator, used to check implementations and to try new extensions. | [GitHub](https://github.com/riscv-software-src/riscv-isa-sim) | 2026-10-11 |
 | **Venus** | Keyhan Vakil | Browser-based RISC-V simulator built for teaching; the version used in Berkeley CS61C. | [Website](https://venus.cs61c.org/) · [GitHub](https://github.com/kvakil/venus) | 2026-10-11 |
 | **WebRISC-V** | Roberto Giorgi, Gianfranco Mariotti | Web-based graphical simulation with pipeline visualization for RV32IM/RV64IM. | [GitHub](https://github.com/Mariotti94/WebRISC-V/) | 2025-08-14 |
