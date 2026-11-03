@@ -19,3 +19,19 @@
 # cw.fel.cvut.cz (CTU Prague course wiki) answers non-browser clients with a
 # "Bot Check" page and HTTP 402; people confirm once and reach the course.
 ^https://cw\.fel\.cvut\.cz/
+
+# deepcomputing.io (Cloudflare) answers the link checker with HTTP 202; the
+# product pages return 200 to a browser user agent.
+^https://deepcomputing\.io/
+
+# semiengineering.com (Cloudflare) returns HTTP 403 to non-browser clients
+# (anti-bot); the article opens normally in a browser.
+^https://semiengineering\.com/
+
+# crowdsupply.com (Cloudflare) answers non-browser clients with a JS
+# challenge (cf-mitigated: challenge, HTTP 403) that a browser passes.
+^https://www\.crowdsupply\.com/
+
+# TEMPORARY: www.cse.iitd.ac.in's TLS certificate expired on 2026-11-01. The
+# page itself is still there. Remove this entry once the certificate is renewed.
+^https://www\.cse\.iitd\.ac\.in/~srsarangi/archbooksoft\.html$
